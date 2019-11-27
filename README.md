@@ -1,4 +1,4 @@
-# Otomanopee について
+## Otomanopee について
 
 オープンソースフォント「GL-Otomanopee」の Google Fonts 提供バージョンです。  
 漫画の描き文字をイメージした和文仮名文字フォントです。  
@@ -6,7 +6,7 @@
 
 ******
 
-# ライセンスについて
+## ライセンスについて
 
 SIL Open Font License Version 1.1
 
@@ -20,7 +20,7 @@ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1
 
 ******
 
-# 収録文字
+## 収録文字
 
 * ひらがな 86文字
 * カタカナ 106文字
@@ -30,7 +30,7 @@ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1
 
 ******
 
-# 制限事項
+## 制限事項
 
 * 作成した派生フォントの名前に「Otomenopee」の文字を含めることはできません。
 * 作成した派生フォントを SIL Open Font License Version 1.1 以外のライセンスで再配布することはできません。
