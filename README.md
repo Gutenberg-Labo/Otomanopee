@@ -40,6 +40,7 @@ For example, images or PDF documents created using this font do not need to foll
 https://scripts.sil.org/OFL
 
 <br/>
+
 **SIL オープンフォントライセンス Version 1.1**
 
 * 個人利用・商用利用にかかわらず、どなたでも無償で使用可能です。
