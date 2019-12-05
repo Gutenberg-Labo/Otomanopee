@@ -28,7 +28,7 @@ The difference from the original distribution is that it contains 240 Kanji char
 
 ## Font License / ライセンスについて
 
-SIL Open Font License Version 1.1
+**SIL Open Font License Version 1.1**
 
 * Anyone can use this font free of charge regardless of personal or commercial use.
 * You can redistribute this font or modify derivative fonts from this one.
@@ -38,7 +38,7 @@ For example, images or PDF documents created using this font do not need to foll
 * There is the original license on the following site.  
 https://scripts.sil.org/OFL
 
-<br/>
+**SIL オープンフォントライセンス Version 1.1**
 
 * 個人利用・商用利用にかかわらず、どなたでも無償で使用可能です。
 * 再配布および改変した派生フォントの作成が可能です。
