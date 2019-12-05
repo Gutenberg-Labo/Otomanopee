@@ -16,7 +16,7 @@ The difference from the original distribution is that it contains 240 Kanji char
 * Half width symbols 37 glyphs
 * Full width symbols 86 glyphs
 
-  
+<br/>
 
 * ひらがな 86文字
 * カタカナ 106文字
@@ -38,7 +38,7 @@ For example, images or PDF documents created using this font do not need to foll
 * There is the original license on the following site.  
 https://scripts.sil.org/OFL
 
-  
+<br/>
 
 * 個人利用・商用利用にかかわらず、どなたでも無償で使用可能です。
 * 再配布および改変した派生フォントの作成が可能です。
@@ -57,7 +57,7 @@ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1
 * You must display the original copyright and the copyright notice, license when you redistribute this font or distribute derivative font.
 * You cannot contain the string "Otomanopee" in the name of the derivative font of this one.
 
-  
+<br/>
 
 * このフォントファイル自体を単体で販売することはできません。
 * このフォントを改変して作成した派生フォントのライセンスは、必ず SIL Open Font License Version 1.1 にする必要があります。
