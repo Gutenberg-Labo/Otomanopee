@@ -1,11 +1,11 @@
 ## About Otomanopee / Otomanopee について
 
 Google Fonts version of "GL-Otomanopee", Japanese open source font inspired by cartoon drawing characters.  
-The difference from the original distribution is that it contains Google Latin Core character set and 240 Kanji characters learned in 1st and 2nd grade in Japanese elementary school.
+The difference from the original distribution is that it contains 227 glyph of Google Latin Core character set and 240 glyphs of Kanji learned in 1st and 2nd grade in Japanese elementary school.
 
 <br/>
 漫画の描き文字をイメージした和文オープンソースフォント「GL-Otomanopee」の Google Fonts 提供版です。  
-本家配布版との違いは、Google Latin Core文字セット227文字および小学1年生・小学2年生で習う漢字計240文字が追加されていることです。
+本家配布版との違いは、Google Latin Core文字セット227文字および小学1年・2年で習う教育漢字計240文字が追加されていることです。
 
 ******
 
