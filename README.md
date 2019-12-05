@@ -1,11 +1,11 @@
 ## About Otomanopee / Otomanopee について
 
 Google Fonts version of "GL-Otomanopee", Japanese open source font inspired by cartoon drawing characters.  
-The difference from the original distribution is that it contains 240 Kanji characters learned in 1st and 2nd grade in Japanese elementary school.
+The difference from the original distribution is that it contains Google Latin Core character set and 240 Kanji characters learned in 1st and 2nd grade in Japanese elementary school.
 
 <br/>
 漫画の描き文字をイメージした和文オープンソースフォント「GL-Otomanopee」の Google Fonts 提供版です。  
-本家配布版との違いは、小学1年生および小学2年生で習う漢字240文字およびGoogle Latin Core文字セット227文字が追加されていることです。
+本家配布版との違いは、Google Latin Core文字セット227文字および小学1年生・小学2年生で習う漢字計240文字が追加されていることです。
 
 ******
 
@@ -34,7 +34,7 @@ The difference from the original distribution is that it contains 240 Kanji char
 * Anyone can use this font free of charge regardless of personal or commercial use.
 * You can redistribute this font or modify derivative fonts from this one.
 * You can sell any software such as games or applications which embedded this font.
-* Any deliverables you create with this font (except derived fonts) are not bound by any license.  
+* Any deliverables you create with this font (except derivative fonts of this one) are not bound by any license.  
 For example, images or PDF documents created using this font do not need to follow any licenses, including the SIL Open Font License.
 * There is the original license on the following site.  
 https://scripts.sil.org/OFL
@@ -58,7 +58,7 @@ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1
 * You cannot sell this font file alone.
 * You must distribute the derivative fonts of this one under the SIL Open Font License Version 1.1.
 * You must display the original copyright notices and license when you redistribute this font or distribute derivative font.
-* You cannot contain the string "Otomanopee" in the name of the derivative font of this one.
+* You cannot contain the string "Otomanopee" in the name of the derivative font.
 
 <br/>
 
