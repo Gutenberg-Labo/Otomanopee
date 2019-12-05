@@ -30,7 +30,7 @@ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1
 カタカナ 106文字
 * Kanji 240 glyphs  
 漢字 240文字（小学1年生および小学2年生で習う漢字）
-* Full width symbols 37 glyphs  
+* Half width symbols 37 glyphs  
 半角記号 37文字
 * Full width symbols 86 glyphs  
 全角記号 86文字
