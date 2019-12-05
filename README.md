@@ -1,11 +1,12 @@
 ## About Otomanopee / Otomanopee について
 
 Google Fonts version of "GL-Otomanopee", Japanese open source font inspired by cartoon drawing characters.  
-The difference from the original distribution is that it contains 227 glyph of Google Latin Core character set and 240 glyphs of Kanji learned in 1st and 2nd grade in Japanese elementary school.
+The difference from the original distribution is that it contains 227 glyph of [Google Latin Core character set](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam) and 240 glyphs of Kanji learned in 1st and 2nd grade in Japanese elementary school.
 
 <br/>
+
 漫画の描き文字をイメージした和文オープンソースフォント「GL-Otomanopee」の Google Fonts 提供版です。  
-本家配布版との違いは、Google Latin Core文字セット227文字および小学1年・2年で習う教育漢字計240文字が追加されていることです。
+本家配布版との違いは、[Google Latin Core文字セット227文字](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)および小学1年・2年で習う教育漢字計240文字が追加されていることです。
 
 ******
 
@@ -31,7 +32,7 @@ The difference from the original distribution is that it contains 227 glyph of G
 
 **SIL Open Font License Version 1.1**
 
-* Anyone can use this font free of charge regardless of personal or commercial use.
+* You can use this font free of charge regardless of personal or commercial use.
 * You can redistribute this font or modify derivative fonts from this one.
 * You can sell any software such as games or applications which embedded this font.
 * Any deliverables you create with this font (except derivative fonts of this one) are not bound by any license.  
@@ -65,4 +66,4 @@ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1
 * このフォントファイル自体を単体で販売することはできません。
 * このフォントを改変して作成した派生フォントのライセンスは、必ず SIL Open Font License Version 1.1 にする必要があります。
 * このフォントや派生フォントを再配布する際は、元の著作権を引き継ぎ、著作権表示とライセンスを明示する必要があります。
-* 派生フォントの名称に「Otomanopee」の文字を含めることはできません。
+* 派生フォントの名称に「Otomanopee」の文字列を含めることはできません。
