@@ -57,7 +57,7 @@ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1
 
 * You cannot sell this font file alone.
 * You must distribute the derivative fonts of this one under the SIL Open Font License Version 1.1.
-* You must display the original copyright and the copyright notice, license when you redistribute this font or distribute derivative font.
+* You must display the original copyright notices and license when you redistribute this font or distribute derivative font.
 * You cannot contain the string "Otomanopee" in the name of the derivative font of this one.
 
 <br/>
