@@ -1,4 +1,6 @@
-Copyright (c) 2019, Gutenberg Labo (https://gutenberg.osdn.jp/),
+Copyright (c) 2007-2009, Das Ende der Wildnis (http://heiden.daynight.jp/),
+Copyright (c) 2008-2018, Gutenberg Labo (http://gutenberg.osdn.jp/),
+Copyright (c) 2019, Gutenberg Labo (https://github.com/Gutenberg-Labo),
 with Reserved Font Name "Otomanopee".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
