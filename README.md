@@ -3,6 +3,7 @@
 Google Fonts version of "GL-Otomanopee", Japanese open source font inspired by cartoon drawing characters.  
 The difference from the original distribution is that it contains 240 Kanji characters learned in 1st and 2nd grade in Japanese elementary school.
 
+<br/>
 漫画の描き文字をイメージした和文オープンソースフォント「GL-Otomanopee」の Google Fonts 提供版です。  
 本家配布版との違いは、小学1年生および小学2年生で習う漢字240文字およびGoogle Latin Core文字セット227文字を収録していることです。
 
@@ -38,6 +39,7 @@ For example, images or PDF documents created using this font do not need to foll
 * There is the original license on the following site.  
 https://scripts.sil.org/OFL
 
+<br/>
 **SIL オープンフォントライセンス Version 1.1**
 
 * 個人利用・商用利用にかかわらず、どなたでも無償で使用可能です。
