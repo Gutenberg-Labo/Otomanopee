@@ -5,7 +5,7 @@ The difference from the original distribution is that it contains 240 Kanji char
 
 <br/>
 漫画の描き文字をイメージした和文オープンソースフォント「GL-Otomanopee」の Google Fonts 提供版です。  
-本家配布版との違いは、小学1年生および小学2年生で習う漢字240文字およびGoogle Latin Core文字セット227文字を収録していることです。
+本家配布版との違いは、小学1年生および小学2年生で習う漢字240文字およびGoogle Latin Core文字セット227文字が追加されていることです。
 
 ******
 
