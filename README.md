@@ -22,33 +22,33 @@ The difference from the original distribution is as follows.
 
 * Latin character set
 	* Latin alphabet - 117 glyphs
-	* Numerals - 18 glyphs
+	* Numerals - 17 glyphs
 	* Punctuation - 93 glyphs
 * Japanese character set
 	* Fullwidth Latin alphabet - 52 glyphs
 	* Fullwidth numerals - 10 glyphs
-	* Fullwidth / Japanese punctuation - 36 glyphs
+	* Fullwidth / Japanese punctuation - 77 glyphs
 	* Hiragana - 86 glyphs
 	* Katakana - 106 glyphs
 	* Halfwidth Katakana - 63 glyphs
 * Kanji - 240 glyphs
-* Other - 4 glyphs
+* Others - 3 glyphs
 
 <br/>
 
 * 欧文グリフ
 	* ラテン文字 117文字
-	* 数字 18文字
+	* 数字 17文字
 	* 約物 93文字
 * 和文グリフ
 	* 全角ラテン文字 52文字
 	* 全角数字 10文字
-	* 全角（和文用）約物 36 文字
+	* 全角（和文用）約物 77文字
 	* ひらがな 86文字
 	* カタカナ 106文字
 	* 半角カナ 63文字
 * 漢字 240文字（小学1年生および小学2年生で習う漢字）
-* その他 4文字
+* その他 3文字
 
 ******
 
@@ -128,4 +128,4 @@ Copyright (c) 2019-2020, Gutenberg Labo (https://github.com/Gutenberg-Labo/)
 	* GL-オとマのペの派生フォントとして、SIL オープンフォントライセンスにて公開。
 	* 基本ラテン文字、数字、漢字240文字および GF Latin Core 文字セットを追加。
 	* 誤った文字コードに配置されていたグリフを整理し、再配置。
-	* 各文字のアウトラインを調整。
+	* 各グリフのアウトラインを調整。
