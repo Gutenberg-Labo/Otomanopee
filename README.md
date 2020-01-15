@@ -1,6 +1,6 @@
 ## About Otomanopee / Otomanopee について
 
-Google Fonts version of "GL-Otomanopee", Japanese open source font inspired graphical letters in manga.  
+Google Fonts version of "GL-Otomanopee," Japanese open source font inspired graphical letters in manga.  
 The difference from the original distribution is as follows.
 
 * Licenced by **SIL Open Font License Version 1.1**
