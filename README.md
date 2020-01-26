@@ -108,7 +108,7 @@ Copyright (c) 2019-2020, Gutenberg Labo (https://github.com/Gutenberg-Labo/)
 	* Distribution resumed with added Katakana and some punctuation glyphs
 	* Added proportional vertical glyphs to all Hiragana, Katakana and Japanese punctuation.
 	* Added horizontal pair kerning settings.
-* 2020-Jan-xx, **Otomanopee (Google Fonts version) Ver. 3.0**  
+* 2020-Jan-27, **Otomanopee (Google Fonts version) Ver. 3.0**  
 	* Distributed under SIL Open Font License as derivative font of GL-Otomanopee.
 	* Added basic Latin alphabet, numerals, 240 Kanji, more Japanese punctuation and GF Latin Core Glyph Set.
 	* Added rotate glyphs to all Latin alphabet, Numerals, Punctuation and Halfwidth Katakana to support vrt2 feature.
@@ -126,9 +126,9 @@ Copyright (c) 2019-2020, Gutenberg Labo (https://github.com/Gutenberg-Labo/)
 	* カタカナおよび若干数の約物を追加し、公開再開。
 	* 全てのひらがな・カタカナ・和文用約物に、縦方向にプロポーショナルな縦組み用字形を追加。
 	* 横方向のペアカーニング設定を追加。
-* 2020-Jan-xx, **Otomanopee（Google Fonts 提供版） Ver. 3.0**
+* 2020-Jan-27, **Otomanopee（Google Fonts 提供版） Ver. 3.0**
 	* GL-オとマのペの派生フォントとして、SIL オープンフォントライセンスにて公開。
-	* 基本ラテン文字、数字、漢字240文字、和文用約物、および GF Latin Core 文字セットを追加。
+	* 基本ラテン文字、数字、漢字240字、和文用約物、および GF Latin Core 文字セットを追加。
 	* vrt2フィーチャー対応のため、全てのラテン文字・数字・欧文約物・半角カナに縦組み用回転字形を追加。
 	* 誤った文字コードに配置されていたグリフを整理し、再配置。
 	* 横方向のペアカーニング設定を大幅に修正。
