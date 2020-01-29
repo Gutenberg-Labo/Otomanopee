@@ -1,0 +1,43 @@
+Otomanopee - Glyphs List
+
+- Latin character set -
+
+* Latin Alphabet
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœ
+
+* Numerals
+0123456789¹²³⁴¼½¾
+
+* Punctation
+!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~¡¢£¤¥¦§¨©ª«¬®¯°±´µ¶·¸º»¿×÷ʻʼˆ˚˜–—―‖‘’‚“”„•‥…′″‹›⁄€™↑↓−∕�
+[softHyphen][space][noBreakSpace][enSpace][zeroWidthSpace][thinSpace][zeroWidthNoBreakSpace]
+
+
+- Japanese character set -
+
+* Fullwidth Latin Alphabet
+ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ
+
+* Fullwidth Numerals
+０１２３４５６７８９
+
+* Fullwidth punctuation (for Japanese)
+、。〃〄々〆〇〈〉《》「」『』【】〒〓〔〕〜〶゛゜ゝゞ・ーヽヾ︰！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝～￠￡￢￣￤￥
+[space-han][voicedcomb-kana][semivoicedcomb-kana]
+
+* Hiragana
+ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖ
+
+* Katakana
+ァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺㇰㇱㇲㇳㇴㇵㇶㇷㇸㇹㇺㇻㇼㇽㇾㇿ
+
+* Halfwidth Katakana
+｡｢｣､ｧｨｩｪｫｬｭｮｯ･ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜｦﾝｰ
+[voiced-kana.half][semivoiced-kana.half]
+
+
+- Kanji (CJK Unified Ideographs) -
+一七万三上下中丸九二五交京人今休会体何作元兄先光入八公六内円冬出刀分切前力北十千午半南原友口古台右合同名四回図国園土地場声売夏夕外多夜大天太女妹姉子字学室家寺小少山岩川工左市帰年広店弓引弟弱強当形後心思戸手才教数文新方日早明星春昼時晴曜書月朝木本村来東林校森楽歌止正歩母毎毛気水池汽活海火点父牛犬玉王理生用田男町画番白百目直矢知石社秋科空立竹答算米糸紙細組絵線羽考耳聞肉自船色花茶草虫行西見親角言計記話語読谷貝買赤走足車近通週道遠里野金長門間雨雪雲電青音頭顔風食首馬高魚鳥鳴麦黄黒
+
+- Others -
+[NULL][CR][.notdef]
