@@ -2,7 +2,7 @@ This file provides detailed information on the Otomanopee font Software.
 https://github.com/Gutenberg-Labo/Otomanopee
 
 
-Otomanopee - Glyphs List
+Otomanopee Font - Glyphs List
 
 - Latin character set -
 
