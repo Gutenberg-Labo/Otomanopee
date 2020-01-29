@@ -1,4 +1,4 @@
-# Otomanopee - Open Source Japanese Font
+# Otomanopee
 
 <img src="https://github.com/Gutenberg-Labo/Otomanopee/blob/master/documentation/Otomanopee-Sample.svg" width="95%" alt="Otomanopee - Open Source Japanese Font" />
 
