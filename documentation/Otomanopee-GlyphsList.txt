@@ -22,8 +22,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍ
 ０１２３４５６７８９
 
 * Fullwidth punctuation (for Japanese)
-、。〃〄々〆〇〈〉《》「」『』【】〒〓〔〕〜〶゛゜ゝゞ・ーヽヾ︰！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝～￠￡￢￣￤￥
-[space-han][voicedcomb-kana][semivoicedcomb-kana]
+、。〃〄々〆〇〈〉《》「」『』【】〒〓〔〕〜〶 ゙ ゚ ゛゜ゝゞ・ーヽヾ︰！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝～￠￡￢￣￤￥
+[space-han]
 
 * Hiragana
 ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖ
@@ -32,8 +32,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍ
 ァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺㇰㇱㇲㇳㇴㇵㇶㇷㇸㇹㇺㇻㇼㇽㇾㇿ
 
 * Halfwidth Katakana
-｡｢｣､ｧｨｩｪｫｬｭｮｯ･ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜｦﾝｰ
-[voiced-kana.half][semivoiced-kana.half]
+｡｢｣､ｧｨｩｪｫｬｭｮｯ･ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜｦﾝｰ ﾞ ﾟ
 
 
 - Kanji (CJK Unified Ideographs) -
