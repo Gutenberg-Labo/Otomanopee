@@ -1,4 +1,8 @@
-# Otomanopee - Features and All Alternate Glyphs
+# Otomanopee Font - Features and All Alternate Glyphs
+
+This file provides detailed information on the Otomanopee font Software.  
+https://github.com/Gutenberg-Labo/Otomanopee
+
 
 ## Latin character set
 
