@@ -4,7 +4,7 @@ https://github.com/Gutenberg-Labo/Otomanopee
 
 Otomanopee Font - Glyphs List
 
-- Latin character set -
+- Latin Character Set -
 
 * Latin Alphabet
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœ
@@ -17,7 +17,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍ
 [softHyphen][space][noBreakSpace][enSpace][zeroWidthSpace][thinSpace][zeroWidthNoBreakSpace]
 
 
-- Japanese character set -
+- Japanese Character Set -
 
 * Fullwidth Latin Alphabet
 ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ
@@ -25,7 +25,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍ
 * Fullwidth Numerals
 ０１２３４５６７８９
 
-* Fullwidth punctuation (for Japanese)
+* Fullwidth Punctuation (for Japanese)
 、。〃〄々〆〇〈〉《》「」『』【】〒〓〔〕〜〶 ゙ ゚ ゛゜ゝゞ・ーヽヾ︰！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝～￠￡￢￣￤￥
 [space-han]
 
