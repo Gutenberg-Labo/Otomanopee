@@ -1,4 +1,8 @@
-Otomanopee Change Log
+This file provides detailed information on the Otomanopee font Software.
+https://github.com/Gutenberg-Labo/Otomanopee
+
+
+Change Log for the Otomanopee font
 
 * 2007-Jan-04, Otomanopee (early distribution) Ver. 1
 	* Very first distribution as Hiragana-only proportional font from a personal site.
@@ -19,22 +23,22 @@ Otomanopee Change Log
 	* Adjusted the outlines of each glyph.
 
 
-Otomanopee �X�V����
+Otomanopee 更新履歴
 
-* 2007-Jan-04, �I�ƃ}�̃y�i�����Łj Ver. 1
-	* �Ђ炪�Ȃ݂̂̃v���|�[�V���i���t�H���g�Ƃ��Čl�T�C�g�ɂČ��J�J�n�B
-	* ���J��~�̌�A2008�N9��1����� Gutenberg Labo �֊Ǘ����ڊǁB
-	* ����҂̈ӎv�ɂ��2009�N9��21����胉�C�Z���X�� M+ FONTS License �֕ύX�B
+* 2007-Jan-04, オとマのペ（初期版） Ver. 1
+	* ひらがなのみのプロポーショナルフォントとして個人サイトにて公開開始。
+	* 公開停止の後、2008年9月1日より Gutenberg Labo へ管理を移管。
+	* 制作者の意思により2009年9月21日よりライセンスを M+ FONTS License へ変更。
 
-* 2018-Jan-20, GL-�I�ƃ}�̃y Ver. 2.018
-	* �J�^�J�i����ю኱���̖񕨂�ǉ����A���J�ĊJ�B
-	* �S�Ă̂Ђ炪�ȁE�J�^�J�i�E�a���p�񕨂ɁA�c�����Ƀv���|�[�V���i���ȏc�g�ݗp���`��ǉ��B
-	* �������̃y�A�J�[�j���O�ݒ��ǉ��B
+* 2018-Jan-20, GL-オとマのペ Ver. 2.018
+	* カタカナおよび若干数の約物を追加し、公開再開。
+	* 全てのひらがな・カタカナ・和文用約物に、縦方向にプロポーショナルな縦組み用字形を追加。
+	* 横方向のペアカーニング設定を追加。
 
-* 2020-Jan-27, Otomanopee�iGoogle Fonts �񋟔Łj Ver. 3.0
-	* GL-�I�ƃ}�̃y�̔h���t�H���g�Ƃ��āASIL �I�[�v���t�H���g���C�Z���X�ɂČ��J�B
-	* ��{���e�������A�����A����240���A�a���p�񕨁A����� GF Latin Core �����Z�b�g��ǉ��B
-	* vrt2�t�B�[�`���[�Ή��̂��߁A�S�Ẵ��e�������E�����E�����񕨁E���p�J�i�ɏc�g�ݗp��]���`��ǉ��B
-	* ����������R�[�h�ɔz�u����Ă����O���t�𐮗����A�Ĕz�u�B
-	* �������̃y�A�J�[�j���O�ݒ��啝�ɏC���B
-	* �����O���t�̃A�E�g���C���𒲐��B
+* 2020-Jan-27, Otomanopee（Google Fonts 提供版） Ver. 3.0
+	* GL-オとマのペの派生フォントとして、SIL オープンフォントライセンスにて公開。
+	* 基本ラテン文字、数字、漢字240字、和文用約物、および GF Latin Core 文字セットを追加。
+	* vrt2フィーチャー対応のため、全てのラテン文字・数字・欧文約物・半角カナに縦組み用回転字形を追加。
+	* 誤った文字コードに配置されていたグリフを整理し、再配置。
+	* 横方向のペアカーニング設定を大幅に修正。
+	* 既存グリフのアウトラインを調整。
