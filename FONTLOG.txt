@@ -22,6 +22,9 @@ Change Log for the Otomanopee font
 	* Revised horizontal pair kerning settings drastically.
 	* Adjusted the outlines of each glyph.
 
+* 2020-Nov-08, Otomanopee Ver. 3.002
+	* Supports Adobe Latin 2 Glyph Set.
+
 
 Otomanopee 更新履歴
 
@@ -42,3 +45,6 @@ Otomanopee 更新履歴
 	* 誤った文字コードに配置されていたグリフを整理し、再配置。
 	* 横方向のペアカーニング設定を大幅に修正。
 	* 既存グリフのアウトラインを調整。
+
+* 2020-Nov-08, Otomanopee Ver. 3.002
+	* Adobe Latin 2 文字セットに対応。
