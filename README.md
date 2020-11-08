@@ -25,10 +25,10 @@ The difference from the original distribution is as follows.
 ## Character Set / 収録文字
 
 * Latin character set
-	* Latin alphabet - 117 glyphs
+	* Latin alphabet - 124 glyphs
 	* Greek alphabet - 6 glyphs
 	* Numerals - 17 glyphs
-	* Punctuation - 95 glyphs
+	* Punctuation - 122 glyphs
 * Japanese character set
 	* Fullwidth Latin alphabet - 52 glyphs
 	* Fullwidth numerals - 10 glyphs
@@ -42,10 +42,10 @@ The difference from the original distribution is as follows.
 <br/>
 
 * 欧文グリフ
-	* ラテン文字 117文字
+	* ラテン文字 124文字
 	* ギリシア文字 6文字
 	* 数字 17文字
-	* 約物 95文字
+	* 約物 122文字
 * 和文グリフ
 	* 全角ラテン文字 52文字
 	* 全角数字 10文字
