@@ -125,8 +125,29 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x00FE  | þ     | thorn                       | thorn.rotat                      |
 | 0x00FF  | ÿ     | ydieresis                   | ydieresis.rotat                  |
 | 0x0131  | ı     | idotless                    | idotless.rotat                   |
+| 0x0141  | Ł     | Lslash                      | Lslash.rotat                     |
+| 0x0142  | ł     | lslash                      | lslash.rotat                     |
 | 0x0152  | Œ     | OE                          | OE.rotat                         |
 | 0x0153  | œ     | oe                          | oe.rotat                         |
+| 0x0160  | Š     | Scaron                      | Scaron.rotat                     |
+| 0x0161  | š     | scaron                      | scaron.rotat                     |
+| 0x0178  | Ÿ     | Ydieresis                   | Ydieresis.rotat                  |
+| 0x017D  | Ž     | Zcaron                      | Zcaron.rotat                     |
+| 0x017E  | ž     | zcaron                      | zcaron.rotat                     |
+| 0xFB01  | ﬁ     | fi                          | fi.rotat                         |
+| 0xFB02  | ﬂ     | fl                          | fl.rotat                         |
+
+
+### Greek Alphabet
+
+| unicode | Glyph | GlyphName                   | Features or Alternate            |
+|---------|-------|-----------------------------|----------------------------------|
+| 0x0394  | Δ    | Delta                       | Delta.rotat                      |
+| 0x03A0  | Π    | Pi                          | Pi.rotat                         |
+| 0x03A3  | Σ    | Sigma                       | Sigma.rotat                      |
+| 0x03A9  | Ω    | Omega                       | Omega.rotat                      |
+| 0x03BC  | μ    | mu                          | mu.rotat                         |
+| 0x03C0  | π    | pi                          | pi.rotat                         |
 
 
 ### Numerals
@@ -191,8 +212,8 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x007E  | ~     | asciitilde                  | asciitilde.rotat                 |
 | 0x00A0  |       | noBreakSpace                | noBreakSpace.rotat               |
 | 0x00A1  | ¡     | exclamdown                  | exclamdown.rotat                 |
-| 0x00A2  | ¢     | cent                        | cent.rotat                       |
-| 0x00A3  | £     | sterling                    | sterling.rotat                   |
+| 0x00A2  | ¢    | cent                        | cent.rotat                       |
+| 0x00A3  | £    | sterling                    | sterling.rotat                   |
 | 0x00A4  | ¤     | currency                    | currency.rotat                   |
 | 0x00A5  | ¥     | yen                         | yen.rotat                        |
 | 0x00A6  | ¦     | brokenbar                   | brokenbar.rotat                  |
@@ -201,7 +222,7 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x00A9  | ©     | copyright                   | copyright.rotat                  |
 | 0x00AA  | ª     | ordfeminine                 | ordfeminine.rotat                |
 | 0x00AB  | «     | guillemetleft               | guillemetleft.rotat              |
-| 0x00AC  | ¬     | logicalnot                  | logicalnot.rotat                 |
+| 0x00AC  | ¬    | logicalnot                  | logicalnot.rotat                 |
 | 0x00AD  |       | softHyphen                  | softHyphen.rotat                 |
 | 0x00AE  | ®     | registered                  | registered.rotat                 |
 | 0x00AF  | ¯     | macron                      | macron.rotat                     |
@@ -217,16 +238,23 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x00BF  | ¿     | questiondown                | questiondown.rotat               |
 | 0x00D7  | ×    | multiply                    | multiply.rotat                   |
 | 0x00F7  | ÷    | divide                      | divide.rotat                     |
+| 0x0192  | ƒ     | florin                      | florin.rotat                     |
 | 0x02BB  | ʻ     | commaturnedmod              |  commaturnedmod.rotat            |
 | 0x02BC  | ʼ     | apostrophemod               |  apostrophemod.rotat             |
 | 0x02C6  | ˆ     | circumflex                  | circumflex.rotat                 |
+| 0x02C7  | ˇ     | caron                       | caron.rotat                      |
+| 0x02C9  | ˉ     | firsttonechinese            | firsttonechinese.rotat           |
+| 0x02D8  | ˘     | breve                       | breve.rotat                      |
+| 0x02D9  | ˙     | dotaccent                   | dotaccent.rotat                  |
 | 0x02DA  | ˚     | ring                        | ring.rotat                       |
+| 0x02DB  | ˛     | ogonek                      | ogonek.rotat                     |
 | 0x02DC  | ˜     | tilde                       | tilde.rotat                      |
+| 0x02DD  | ˝     | hungarumlaut                | hungarumlaut.rotat               |
 | 0x2002  |       | enSpace                     | enSpace.rotat                    |
 | 0x2009  |       | thinSpace                   | thinSpace.rotat                  |
 | 0x200B  |       | zerowidthspace              | zeroWidthSpace.rotat             |
 | 0x2013  | –     | endash                      | endash.rotat                     |
-| 0x2014  | —     | emdash                      | emdash.rotat                     |
+| 0x2014  | —    | emdash                      | emdash.rotat                     |
 | 0x2015  | ―    | horizontalbar               | horizontalbar.vert               |
 | 0x2016  | ‖    | dblverticalbar              | dblverticalbar.rotat             |
 | 0x2018  | ‘    | quoteleft                   | quoteleft.rotat                  |
@@ -235,20 +263,39 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x201C  | “    | quotedblleft                | quotedblleft.rotat               |
 | 0x201D  | ”    | quotedblright               | quotedblright.rotat              |
 | 0x201E  | „     | quotedblbase                | quotedblbase.rotat               |
+| 0x2020  | †    | dagger                      | dagger.rotat                     |
+| 0x2021  | ‡    | daggerdbl                   | daggerdbl.rotat                  |
 | 0x2022  | •     | bullet                      | bullet.rotat                     |
 | 0x2025  | ‥    | twodotenleader              | twodotenleader.vert              |
 | 0x2026  | …    | ellipsis                    | ellipsis.vert                    |
+| 0x2030  | ‰    | perthousand                 | perthousand.rotat                |
 | 0x2032  | ′    | minute                      | minute.rotat                     |
 | 0x2033  | ″    | second                      | second.rotat                     |
 | 0x2039  | ‹     | guilsinglleft               | guilsinglleft.rotat              |
 | 0x203A  | ›     | guilsinglright              | guilsinglright.rotat             |
 | 0x2044  | ⁄     | fraction                    | fraction.rotat                   |
 | 0x20AC  | €     | euro                        | euro.rotat                       |
+| 0x2113  | ℓ    | literSign                   | literSign.rotat                  |
 | 0x2122  | ™     | trademark                   | trademark.rotat                  |
+| 0x2126  | Ω    | Ohm                         | Ohm.rotat                        |
+| 0x212E  | ℮     | estimated                   | estimated.rotat                  |
 | 0x2191  | ↑    | upArrow                     | upArrow.rotat                    |
 | 0x2193  | ↓    | downArrow                   | downArrow.rotat                  |
-| 0x2212  | −     | minus                       | minus.rotat                      |
+| 0x2202  | ∂    | partialdiff                 | partialdiff.rotat                |
+| 0x2206  | ∆     | increment                   | increment.rotat                  |
+| 0x220F  | ∏     | product                     | product.rotat                    |
+| 0x2211  | ∑     | summation                   | summation.rotat                  |
+| 0x2212  | −    | minus                       | minus.rotat                      |
 | 0x2215  | ∕     | divisionslash               | divisionslash.rotat              |
+| 0x2219  | ∙     | bulletoperator              | bulletoperator.rotat             |
+| 0x221A  | √    | radical                     | radical.rotat                    |
+| 0x221E  | ∞    | infinity                    | infinity.rotat                   |
+| 0x222B  | ∫    | integral                    | integral.rotat                   |
+| 0x2248  | ≈     | approxequal                 | approxequal.rotat                |
+| 0x2260  | ≠    | notequal                    | notequal.rotat                   |
+| 0x2264  | ≤     | lessequal                   | lessequal.rotat                  |
+| 0x2265  | ≥     | greaterequal                | greaterequal.rotat               |
+| 0x25CA  | ◊     | lozenge                     | lozenge.rotat                    |
 | 0xFEFF  |       | zeroWidthNoBreakSpace       | zeroWidthNoBreakSpace.rotat      |
 | 0xFFFD  | �    | replacementCharacter        | replacementCharacter.rotat       |
 
