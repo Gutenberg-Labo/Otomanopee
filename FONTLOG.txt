@@ -23,6 +23,7 @@ Change Log for the Otomanopee font
 	* Adjusted the outlines of each glyph.
 
 * 2020-Nov-08, Otomanopee Ver. 3.002
+	* Fixed outline errors.
 	* Supports Adobe Latin 2 Glyph Set.
 
 
@@ -47,4 +48,5 @@ Otomanopee 更新履歴
 	* 既存グリフのアウトラインを調整。
 
 * 2020-Nov-08, Otomanopee Ver. 3.002
+	* アウトラインのエラーを修正。
 	* Adobe Latin 2 文字セットに対応。
