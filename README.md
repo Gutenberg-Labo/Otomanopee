@@ -25,7 +25,7 @@ The difference from the original distribution is as follows.
 ## Character Set / 収録文字
 
 * Latin character set
-	* Latin alphabet - 124 glyphs
+	* Latin alphabet - 126 glyphs
 	* Greek alphabet - 6 glyphs
 	* Numerals - 17 glyphs
 	* Punctuation - 122 glyphs
@@ -42,7 +42,7 @@ The difference from the original distribution is as follows.
 <br/>
 
 * 欧文グリフ
-	* ラテン文字 124文字
+	* ラテン文字 126文字
 	* ギリシア文字 6文字
 	* 数字 17文字
 	* 約物 122文字
