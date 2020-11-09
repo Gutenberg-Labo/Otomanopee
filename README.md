@@ -9,7 +9,7 @@ The difference from the original distribution is as follows.
 
 * Licenced by **SIL Open Font License Version 1.1**
 * Contains 240 glyphs of Kanji learned in 1st and 2nd grade in Japanese elementary school
-* Contains [Adobe Latin 2 Character Set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html) and [GF Latin Core Glyph Set](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)
+* Covers [Adobe Western 2 Character Set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html) and [GF Latin Core Glyph Set](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)
 
 <br/>
 
@@ -18,7 +18,7 @@ The difference from the original distribution is as follows.
 
 * ライセンスが **SIL Open Font License Version 1.1** へ変更
 * 小学1年・2年で習う教育漢字計240文字を収録
-* [Adobe Latin 2 文字セット](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html)および[GF Latin Core 文字セット](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)をカバー
+* [Adobe Western 2 文字セット](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html)および[GF Latin Core 文字セット](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)をカバー
 
 ******
 
