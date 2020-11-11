@@ -32,9 +32,9 @@ The difference from the original distribution is as follows.
 * Japanese character set
 	* Fullwidth Latin alphabet - 52 glyphs
 	* Fullwidth numerals - 10 glyphs
-	* Fullwidth punctuation (for Japanese) - 73 glyphs
-	* Hiragana - 86 glyphs
-	* Katakana - 106 glyphs
+	* Fullwidth punctuation (for Japanese) - 98 glyphs
+	* Hiragana - 87 glyphs
+	* Katakana - 107 glyphs
 	* Halfwidth Katakana - 63 glyphs
 * Kanji (CJK Unified Ideographs) - 240 glyphs
 * Others - 3 glyphs
@@ -49,9 +49,9 @@ The difference from the original distribution is as follows.
 * 和文グリフ
 	* 全角ラテン文字 52文字
 	* 全角数字 10文字
-	* 全角（和文用）約物 73文字
-	* ひらがな 86文字
-	* カタカナ 106文字
+	* 全角（和文用）約物 98文字
+	* ひらがな 87文字
+	* カタカナ 107文字
 	* 半角カナ 63文字
 * 漢字 240文字（小学1年生および小学2年生で習う漢字）
 * その他 3文字
