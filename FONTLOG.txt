@@ -25,6 +25,7 @@ Change Log for the Otomanopee font
 * 2020-Nov-08, Otomanopee Ver. 3.002
 	* Fixed outline errors.
 	* Added Punctuation to support Adobe Western 2 Character Set.
+	* Added Japanese punctuation.
 
 
 Otomanopee 更新履歴
@@ -47,6 +48,7 @@ Otomanopee 更新履歴
 	* 横方向のペアカーニング設定を大幅に修正。
 	* 既存グリフのアウトラインを調整。
 
-* 2020-Nov-08, Otomanopee Ver. 3.002
+* 2020-Nov-08, Otomanopee Ver. 3.003
 	* アウトラインのエラーを修正。
-	* 欧文約物を追加し Adobe Western 2 文字セットに対応。
+	* 欧文用約物を追加し Adobe Western 2 文字セットに対応。
+	* 和文用約物を追加。
