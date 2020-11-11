@@ -382,6 +382,7 @@ https://github.com/Gutenberg-Labo/Otomanopee
 
 | unicode | Glyph | GlyphName                   | Features or Alternate            |
 |---------|-------|-----------------------------|----------------------------------|
+| 0x203B  | ※    | referencemark               |                                  |
 | 0x3000  | 　    | space-han                   |                                  |
 | 0x3001  | 、    | comma-han                   | comma-han.vert                   |
 | 0x3002  | 。    | period-han                  | period-han.vert                  |
@@ -404,19 +405,41 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x3013  | 〓    | getamark                    | getamark.vert                    |
 | 0x3014  | 〔    | tortoiseshellbracketleft    | tortoiseshellbracketleft.vert    |
 | 0x3015  | 〕    | tortoiseshellbracketright   | tortoiseshellbracketright.vert   |
+| 0x3016  | 〖    | whitelenticularbracketleft  | whitelenticularbracketleft.vert  |
+| 0x3017  | 〗    | whitelenticularbracketright | whitelenticularbracketright.vert |
+| 0x3018  | 〘    | whitetortoiseshellbracketleft | whitetortoiseshellbracketleft.vert  |
+| 0x3019  | 〙    | whitetortoiseshellbracketright | whitetortoiseshellbracketright.vert |
+| 0x301A  | 〚    | whitesquarebracketleft      | whitesquarebracketleft.vert      |
+| 0x301B  | 〛    | whitesquarebracketright     | whitesquarebracketright.vert     |
 | 0x301C  | 〜    | wavedash                    | wavedash.vert                    |
+| 0x301D  | 〝    | quotedoubleprimeReversed    | quotedoubleprimeReversed.vert    |
+| 0x301E  | 〞    | quotedoubleprime            | quotedoubleprime.vert            |
+| 0x301F  | 〟    | lowquotedoubleprime         | lowquotedoubleprime.vert         |
+| 0x3020  | 〠    | postalmarkface              |                                  |
+| 0x3030  | 〰    | wavydash                    | wavydash.vert                    |
+| 0x3031  | 〱    | repeat-kana                 |                                  |
+| 0x3032  | 〲    | repeatVoiced-kana           |                                  |
+| 0x3033  | 〳    | repeatUpperhalf-kana        |                                  |
+| 0x3034  | 〴    | repeatVoicedUpperhalf-kana  |                                  |
+| 0x3035  | 〵    | repeatLowerhalf-kana        |                                  |
 | 0x3036  | 〶    | postalmark.circled          |                                  |
+| 0x303B  | 〻    | ninojiten-han               |                                  |
+| 0x303C  | 〼    | masumark                    |                                  |
+| 0x303D  | 〽    | partalternationmark         |                                  |
 | 0x3099  | ゙     | voicedcomb-kana             |                                  |
 | 0x309A  | ゚     | semivoicedcomb-kana         |                                  |
 | 0x309B  | ゛    | voiced-kana                 | voiced-kana.vert                 |
 | 0x309C  | ゜    | semivoiced-kana             | semivoiced-kana.vert             |
 | 0x309D  | ゝ    | iteration-hira              | iteration-hira.vert              |
 | 0x309E  | ゞ    | voicediteration-hira        | voicediteration-hira.vert        |
+| 0x30A0  | ゠    | dblhyphen-kana              | dblhyphen-kana.vert              |
 | 0x30FB  | ・    | dot-kata                    | dot-kata.vert                    |
 | 0x30FC  | ー    | prolonged-kana              | prolonged-kana.vert              |
 | 0x30FD  | ヽ    | iteration-kata              | iteration-kata.vert              |
 | 0x30FE  | ヾ    | voicediteration-kata        | voicediteration-kata.vert        |
 | 0xFE30  | ︰    | twodotleader.vert           |                                  |
+| 0xFE45  | ﹅    | sesamedot                   | sesamedot.vert                   |
+| 0xFE46  | ﹆    | whitesesamedot              | whitesesamedot.vert              |
 | 0xFF01  | ！    | exclam.full                 | exclam.full.vert                 |
 | 0xFF02  | ＂    | quotedbl.full               | quotedbl.full.vert               |
 | 0xFF03  | ＃    | numbersign.full             | numbersign.full.vert             |
@@ -449,6 +472,8 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0xFF5C  | ｜    | bar.full                    | bar.full.vert                    |
 | 0xFF5D  | ｝    | braceright.full             | braceright.full.vert             |
 | 0xFF5E  | ～    | asciitilde.full             | asciitilde.full.vert             |
+| 0xFF5F  | ｟    | whiteparenleft.full         | whiteparenleft.full.vert         |
+| 0xFF60  | ｠    | whiteparenright.full        | whiteparenright.full.vert        |
 | 0xFFE0  | ￠    | cent.full                   | cent.full.vert                   |
 | 0xFFE1  | ￡    | sterling.full               | sterling.full.vert               |
 | 0xFFE2  | ￢    | logicalnot.full             | logicalnot.full.vert             |
@@ -547,6 +572,7 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x3094  | ゔ    | vu-hira                     | vu-hira.vert                     |
 | 0x3095  | ゕ    | kasmall-hira                | kasmall-hira.vert                |
 | 0x3096  | ゖ    | kesmall-hira                | kesmall-hira.vert                |
+| 0x309F  | ゟ    | digraphyori-hira            | digraphyori-hira.vert            |
 
 
 ### Katakana
@@ -643,6 +669,7 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x30F8  | ヸ    | vi-kata                     | vi-kata.vert                     |
 | 0x30F9  | ヹ    | ve-kata                     | ve-kata.vert                     |
 | 0x30FA  | ヺ    | vo-kata                     | vo-kata.vert                     |
+| 0x30FF  | ヿ    | digraphkoto-kata            | digraphkoto-kata.vert            |
 | 0x31F0  | ㇰ    | kusmall-kata                | kusmall-kata.vert                |
 | 0x31F1  | ㇱ    | sismall-kata                | sismall-kata.vert                |
 | 0x31F2  | ㇲ    | susmall-kata                | susmall-kata.vert                |
