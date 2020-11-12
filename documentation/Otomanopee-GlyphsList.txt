@@ -16,7 +16,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍ
 0123456789¹²³⁴¼½¾
 
 * Punctation
-!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~¡¢£¤¥¦§¨©ª«¬®¯°±´µ¶·¸º»¿×÷ʻʼƒˆˇˉ˘˙˚˛˜˝–—―‖‘’‚“”„†‡•‥…‰′″‹›⁄€ℓ™Ω℮↑↓∂∆∏∑−∕∙√∞∫≈≠≤≥◊�
+!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~¡¢£¤¥¦§¨©ª«¬®¯°±´µ¶·¸º»¿×÷ʻʼƒˆˇˉ˘˙˚˛˜˝–—―‖‘’‚“”„†‡•‥…‰′″‹›※⁄€ℓ™Ω℮↑↓∂∆∏∑−∕∙√∞∫≈≠≤≥◊�
 [softHyphen][space][noBreakSpace][enSpace][zeroWidthSpace][thinSpace][zeroWidthNoBreakSpace]
 
 
@@ -29,7 +29,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍ
 ０１２３４５６７８９
 
 * Fullwidth Punctuation (for Japanese)
-※、。〃〄々〆〇〈〉《》「」『』【】〒〓〔〕〖〗〘〙〚〛〜〝〞〟〠〰〱〲〳〴〵〶〻〼〽 ゙ ゚ ゛゜ゝゞ゠・ーヽヾ︰﹅﹆！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝～｟｠￠￡￢￣￤￥
+、。〃〄々〆〇〈〉《》「」『』【】〒〓〔〕〖〗〘〙〚〛〜〝〞〟〠〰〱〲〳〴〵〶〻〼〽 ゙ ゚ ゛゜ゝゞ゠・ーヽヾ︰﹅﹆！＂＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝～｟｠￠￡￢￣￤￥
 [space-han]
 
 * Hiragana
