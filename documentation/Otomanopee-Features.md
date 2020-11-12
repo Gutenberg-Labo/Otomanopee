@@ -273,6 +273,7 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x2033  | ″    | second                      | second.rotat                     |
 | 0x2039  | ‹     | guilsinglleft               | guilsinglleft.rotat              |
 | 0x203A  | ›     | guilsinglright              | guilsinglright.rotat             |
+| 0x203B  | ※    | referencemark               |                                  |
 | 0x2044  | ⁄     | fraction                    | fraction.rotat                   |
 | 0x20AC  | €     | euro                        | euro.rotat                       |
 | 0x2113  | ℓ    | literSign                   | literSign.rotat                  |
@@ -382,7 +383,6 @@ https://github.com/Gutenberg-Labo/Otomanopee
 
 | unicode | Glyph | GlyphName                   | Features or Alternate            |
 |---------|-------|-----------------------------|----------------------------------|
-| 0x203B  | ※    | referencemark               |                                  |
 | 0x3000  | 　    | space-han                   |                                  |
 | 0x3001  | 、    | comma-han                   | comma-han.vert                   |
 | 0x3002  | 。    | period-han                  | period-han.vert                  |
