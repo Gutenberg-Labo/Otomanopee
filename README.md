@@ -8,8 +8,8 @@ Google Fonts version of "GL-Otomanopee," open source Japanese font inspired grap
 The difference from the original distribution is as follows.
 
 * Licenced by **SIL Open Font License Version 1.1**
-* Contains 240 glyphs of Kanji learned in 1st and 2nd grade in Japanese elementary school
 * Covers [Adobe Western 2 Character Set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html) and [GF Latin Core Glyph Set](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)
+* Contains 240 glyphs of Kanji learned in 1st and 2nd grade in Japanese elementary school
 
 <br/>
 
@@ -17,8 +17,8 @@ The difference from the original distribution is as follows.
 本家配布版との違いは以下の通りです。
 
 * ライセンスが **SIL Open Font License Version 1.1** へ変更
-* 小学1年・2年で習う教育漢字計240文字を収録
 * [Adobe Western 2 文字セット](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html)および[GF Latin Core 文字セット](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)をカバー
+* 小学1年・2年で習う教育漢字計240文字を収録
 
 ******
 
@@ -100,6 +100,6 @@ For example, images or PDF documents created using this font do not need to foll
 
 ## Copyright / 著作権表示
 
-Copyright (c) 2007-2009, Das Ende der Wildnis (http://heiden.daynight.jp/),  
-Copyright (c) 2008-2020, Gutenberg Labo (http://gutenberg.osdn.jp/),  
-Copyright (c) 2019-2020, Gutenberg Labo (https://github.com/Gutenberg-Labo/)
+Copyright (c) 2007-2009 Das Ende der Wildnis (http://heiden.daynight.jp/),  
+Copyright (c) 2008-2020 Gutenberg Labo (https://gutenberg.osdn.jp/),  
+Copyright (c) 2019-2020 Gutenberg Labo (https://github.com/Gutenberg-Labo/)
