@@ -1,6 +1,4 @@
-(c)2007-2009 Das Ende der wildnis (http://heiden.daynight.jp/),  
-(c)2008-2020 Gutenberg Labo (https://gutenberg.osdn.jp/),  
-(c)2019-2020 Gutenberg Labo (https://github.com/Gutenberg-Labo/)
+Copyright 2020 The Otomanopee Project Authors (https://github.com/Gutenberg-Labo), all rights reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
