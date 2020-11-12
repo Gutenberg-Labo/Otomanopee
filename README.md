@@ -28,11 +28,11 @@ The difference from the original distribution is as follows.
 	* Latin alphabet - 126 glyphs
 	* Greek alphabet - 6 glyphs
 	* Numerals - 17 glyphs
-	* Punctuation - 121 glyphs
+	* Punctuation - 122 glyphs
 * Japanese character set
 	* Fullwidth Latin alphabet - 52 glyphs
 	* Fullwidth numerals - 10 glyphs
-	* Fullwidth punctuation (for Japanese) - 98 glyphs
+	* Fullwidth punctuation (for Japanese) - 97 glyphs
 	* Hiragana - 87 glyphs
 	* Katakana - 107 glyphs
 	* Halfwidth Katakana - 63 glyphs
@@ -45,11 +45,11 @@ The difference from the original distribution is as follows.
 	* ラテン文字 126文字
 	* ギリシア文字 6文字
 	* 数字 17文字
-	* 約物 121文字
+	* 約物 122文字
 * 和文グリフ
 	* 全角ラテン文字 52文字
 	* 全角数字 10文字
-	* 全角（和文用）約物 98文字
+	* 全角（和文用）約物 97文字
 	* ひらがな 87文字
 	* カタカナ 107文字
 	* 半角カナ 63文字
