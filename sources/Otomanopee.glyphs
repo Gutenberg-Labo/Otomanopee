@@ -74910,8 +74910,8 @@ closed = 1;
 nodes = (
 "610 410 LINE",
 "345 755 LINE",
-"50 351 LINE",
-"140 351 LINE",
+"50 350 LINE",
+"140 350 LINE",
 "300 593 LINE",
 "485 340 LINE"
 );
@@ -74919,8 +74919,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"610 409 LINE",
-"520 409 LINE",
+"610 410 LINE",
+"520 410 LINE",
 "360 167 LINE",
 "175 420 LINE",
 "50 350 LINE",
@@ -74945,8 +74945,8 @@ closed = 1;
 nodes = (
 "530 270 LINE",
 "875 535 LINE",
-"471 830 LINE",
-"471 740 LINE",
+"470 830 LINE",
+"470 740 LINE",
 "713 580 LINE",
 "460 395 LINE"
 );
@@ -74954,8 +74954,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"529 270 LINE",
-"529 360 LINE",
+"530 270 LINE",
+"530 360 LINE",
 "287 520 LINE",
 "540 705 LINE",
 "470 830 LINE",
