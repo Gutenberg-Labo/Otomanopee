@@ -1,5 +1,5 @@
 {
-.appVersion = "1346";
+.appVersion = "1349";
 copyright = "Copyright 2020 The Otomanopee Project Authors (https://github.com/Gutenberg-Labo), all rights reserved.";
 customParameters = (
 {
@@ -69494,15 +69494,31 @@ unicode = 2018;
 },
 {
 glyphname = quoteright;
+lastChange = "2020-12-09 03:08:14 +0000";
 layers = (
 {
-components = (
+layerId = "F446C85F-564E-4F2C-825C-C389DAA66B11";
+paths = (
 {
-name = comma;
-transform = "{1, 0, 0, 1, 0, 620}";
+closed = 1;
+nodes = (
+"190 589 OFFCURVE",
+"244 637 OFFCURVE",
+"290 674 CURVE",
+"255 736 OFFCURVE",
+"214 798 OFFCURVE",
+"167 858 CURVE",
+"131 833 OFFCURVE",
+"85 793 OFFCURVE",
+"50 756 CURVE",
+"96 715 OFFCURVE",
+"129 678 OFFCURVE",
+"153 643 CURVE",
+"99 585 LINE",
+"142 544 LINE"
+);
 }
 );
-layerId = "F446C85F-564E-4F2C-825C-C389DAA66B11";
 width = 340;
 }
 );
@@ -79255,12 +79271,17 @@ note = g15337;
 {
 color = 6;
 glyphname = "voicediteration-hira.vert";
+lastChange = "2020-12-09 03:09:03 +0000";
 layers = (
 {
 components = (
 {
-name = "voicediteration-hira";
+name = "iteration-hira";
 transform = "{1, 0, 0, 1, 140, 150}";
+},
+{
+name = "voicedcomb-kana";
+transform = "{1, 0, 0, 1, 488, -40}";
 }
 );
 layerId = "F446C85F-564E-4F2C-825C-C389DAA66B11";
@@ -79322,12 +79343,17 @@ width = 1000;
 {
 color = 6;
 glyphname = "voicediteration-kata.vert";
+lastChange = "2020-12-09 03:09:17 +0000";
 layers = (
 {
 components = (
 {
-name = "voicediteration-kata";
+name = "iteration-kata";
 transform = "{1, 0, 0, 1, 170, 140}";
+},
+{
+name = "voicedcomb-kana";
+transform = "{1, 0, 0, 1, 508, -50}";
 }
 );
 layerId = "F446C85F-564E-4F2C-825C-C389DAA66B11";
@@ -79338,16 +79364,34 @@ width = 1000;
 },
 {
 glyphname = "voicedcomb-kana";
+lastChange = "2020-12-09 03:08:27 +0000";
 layers = (
 {
-components = (
+layerId = "F446C85F-564E-4F2C-825C-C389DAA66B11";
+paths = (
 {
-alignment = -1;
-name = "voiced-kana";
-transform = "{1, 0, 0, 1, 20, 0}";
+closed = 1;
+nodes = (
+"381 633 LINE",
+"365 694 OFFCURVE",
+"342 780 OFFCURVE",
+"321 850 CURVE",
+"205 823 LINE",
+"258 599 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"218 591 LINE",
+"197 686 OFFCURVE",
+"181 754 OFFCURVE",
+"166 815 CURVE",
+"50 786 LINE",
+"98 561 LINE"
+);
 }
 );
-layerId = "F446C85F-564E-4F2C-825C-C389DAA66B11";
 width = 391;
 }
 );
