@@ -78,7 +78,7 @@ For example, images or PDF documents created using this font do not need to foll
 * ゲームやアプリなどのソフトウェアにこのフォントを組み込んで販売することが可能です。
 * このフォントを使って作成した成果物（派生フォントを除く）が、このライセンスに縛られることは一切ありません。  
 たとえば、このフォントを使って作成した画像やPDF文書などは SIL Open Font License をはじめとする何らかのライセンスに従う必要は一切ありません。
-* [ライセンス原文（和訳版）はこちら](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)
+* [ライセンス原文（和訳版）はこちら](https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html)
 
 ******
 
