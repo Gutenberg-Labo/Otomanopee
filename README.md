@@ -87,14 +87,12 @@ For example, images or PDF documents created using this font do not need to foll
 * You cannot sell this font file alone.
 * You must distribute the derivative fonts of this one under the SIL Open Font License Version 1.1.
 * You must display the original copyright notices and license when you redistribute this font or distribute derivative font.
-* You cannot contain the string "Otomanopee" in the name of the derivative font.
 
 <br/>
 
 * このフォントファイル自体を単体で販売することはできません。
 * このフォントを改変して作成した派生フォントのライセンスは、必ず SIL Open Font License Version 1.1 にする必要があります。
 * このフォントや派生フォントを再配布する際は、元の著作権を引き継ぎ、著作権表示とライセンスを明示する必要があります。
-* 派生フォントの名称に「Otomanopee」の文字列を含めることはできません。
 
 ******
 
