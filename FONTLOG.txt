@@ -27,6 +27,9 @@ Change Log for the Otomanopee font
 	* Added Punctuation to support Adobe Western 2 Character Set.
 	* Added Japanese punctuation.
 
+* 2022-May-23, Otomanopee Ver. 3.004
+	* Added U+0150, U+0151, U+0170, U+0171 of Latin Extended-A.
+
 
 Otomanopee 更新履歴
 
@@ -52,3 +55,6 @@ Otomanopee 更新履歴
 	* アウトラインのエラーを修正。
 	* 欧文用約物を追加し Adobe Western 2 文字セットに対応。
 	* 和文用約物を追加。
+
+* 2022-May-23, Otomanopee Ver. 3.004
+	* ラテン文字拡張Aのうち U+0150, U+0151, U+0170, U+0171 を追加。

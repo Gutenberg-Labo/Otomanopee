@@ -127,10 +127,14 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x0131  | ı     | idotless                    | idotless.rotat                   |
 | 0x0141  | Ł     | Lslash                      | Lslash.rotat                     |
 | 0x0142  | ł     | lslash                      | lslash.rotat                     |
+| 0x0150  | Ő     | Ohungarumlaut               | Ohungarumlaut.rotat              |
+| 0x0151  | ő     | ohungarumlaut               | ohungarumlaut.rotat              |
 | 0x0152  | Œ     | OE                          | OE.rotat                         |
 | 0x0153  | œ     | oe                          | oe.rotat                         |
 | 0x0160  | Š     | Scaron                      | Scaron.rotat                     |
 | 0x0161  | š     | scaron                      | scaron.rotat                     |
+| 0x0170  | Ű     | Uhungarumlaut               | Uhungarumlaut.rotat              |
+| 0x0171  | ű     | uhungarumlaut               | uhungarumlaut.rotat              |
 | 0x0178  | Ÿ     | Ydieresis                   | Ydieresis.rotat                  |
 | 0x017D  | Ž     | Zcaron                      | Zcaron.rotat                     |
 | 0x017E  | ž     | zcaron                      | zcaron.rotat                     |
