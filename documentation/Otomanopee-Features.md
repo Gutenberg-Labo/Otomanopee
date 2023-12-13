@@ -352,20 +352,6 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x02DB  | ˛     | ogonek                      | ogonek.rotat                     |
 | 0x02DC  | ˜     | tilde                       | tilde.rotat                      |
 | 0x02DD  | ˝     | hungarumlaut                | hungarumlaut.rotat               |
-| 0x0300  | `     | gravecomb                   |                                  |
-| 0x0301  | ´    | acutecomb                   |                                  |
-| 0x0302  | ^     | circumflexcomb              |                                  |
-| 0x0303  | ˜     | tildecomb                   |                                  |
-| 0x0304  | ¯     | macroncomb                  |                                  |
-| 0x0306  | ˘     | brevecomb                   |                                  |
-| 0x0307  | ˙     | dotaccentcomb               |                                  |
-| 0x0308  | ¨    | dieresiscomb                |                                  |
-| 0x030A  | ˚     | ringcomb                    |                                  |
-| 0x030B  | ˝     | hungarumlautcomb            |                                  |
-| 0x030C  | ˇ     | caroncomb                   |                                  |
-| 0x0326  | ,     | commaaccentcomb             |                                  |
-| 0x0327  | ¸     | cedillacomb                 |                                  |
-| 0x0328  | ˛     | ogonekcomb                  |                                  |
 | 0x2002  |       | enSpace                     | enSpace.rotat                    |
 | 0x2009  |       | thinSpace                   | thinSpace.rotat                  |
 | 0x200B  |       | zerowidthspace              | zeroWidthSpace.rotat             |
@@ -413,6 +399,20 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x2264  | ≤     | lessequal                   | lessequal.rotat                  |
 | 0x2265  | ≥     | greaterequal                | greaterequal.rotat               |
 | 0x25CA  | ◊     | lozenge                     | lozenge.rotat                    |
+| 0x0300  | `     | gravecomb                   |                                  |
+| 0x0301  | ´    | acutecomb                   |                                  |
+| 0x0302  | ^     | circumflexcomb              |                                  |
+| 0x0303  | ˜     | tildecomb                   |                                  |
+| 0x0304  | ¯     | macroncomb                  |                                  |
+| 0x0306  | ˘     | brevecomb                   |                                  |
+| 0x0307  | ˙     | dotaccentcomb               |                                  |
+| 0x0308  | ¨    | dieresiscomb                |                                  |
+| 0x030A  | ˚     | ringcomb                    |                                  |
+| 0x030B  | ˝     | hungarumlautcomb            |                                  |
+| 0x030C  | ˇ     | caroncomb                   |                                  |
+| 0x0326  | ,     | commaaccentcomb             |                                  |
+| 0x0327  | ¸     | cedillacomb                 |                                  |
+| 0x0328  | ˛     | ogonekcomb                  |                                  |
 | 0xFEFF  |       | zeroWidthNoBreakSpace       | zeroWidthNoBreakSpace.rotat      |
 | 0xFFFD  | �    | replacementCharacter        | replacementCharacter.rotat       |
 
