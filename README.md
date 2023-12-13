@@ -8,7 +8,7 @@ Google Fonts version of "GL-Otomanopee," open source Japanese font inspired grap
 The difference from the original distribution is as follows.
 
 * Licenced by **SIL Open Font License Version 1.1**
-* Covers [Adobe Western 2 Character Set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html) and [GF Latin Core Glyph Set](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)
+* Covers [Adobe Latin 2 Character Set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html) and [GF Latin Core Glyph Set](https://github.com/googlefonts/glyphsets/blob/main/GF_glyphsets/Latin/nam/GF_Latin_Core.nam)
 * Contains 240 glyphs of Kanji learned in 1st and 2nd grade in Japanese elementary school
 
 <br/>
@@ -17,7 +17,7 @@ The difference from the original distribution is as follows.
 本家配布版との違いは以下の通りです。
 
 * ライセンスが **SIL Open Font License Version 1.1** へ変更
-* [Adobe Western 2 文字セット](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html)および[GF Latin Core 文字セット](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/latin_unique-glyphs.nam)をカバー
+* [Adobe Latin 2 文字セット](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html)および[GF Latin Core 文字セット](https://github.com/googlefonts/glyphsets/blob/main/GF_glyphsets/Latin/nam/GF_Latin_Core.nam)をカバー
 * 小学1年・2年で習う教育漢字計240文字を収録
 
 ******
@@ -25,10 +25,10 @@ The difference from the original distribution is as follows.
 ## Character Set / 収録文字
 
 * Latin character set
-	* Latin alphabet - 130 glyphs
+	* Latin alphabet - 228 glyphs
 	* Greek alphabet - 6 glyphs
 	* Numerals - 17 glyphs
-	* Punctuation - 122 glyphs
+	* Punctuation - 136 glyphs
 * Japanese character set
 	* Fullwidth Latin alphabet - 52 glyphs
 	* Fullwidth numerals - 10 glyphs
@@ -42,10 +42,10 @@ The difference from the original distribution is as follows.
 <br/>
 
 * 欧文グリフ
-	* ラテン文字 130文字
+	* ラテン文字 228文字
 	* ギリシア文字 6文字
 	* 数字 17文字
-	* 約物 122文字
+	* 約物 136文字
 * 和文グリフ
 	* 全角ラテン文字 52文字
 	* 全角数字 10文字
@@ -67,7 +67,7 @@ The difference from the original distribution is as follows.
 * You can sell any software such as games or applications which embedded this font.
 * Any deliverables you create with this font (except derivative fonts of this one) are not bound by any license.  
 For example, images or PDF documents created using this font do not need to follow any licenses, including the SIL Open Font License.
-* [The original license text is here](https://scripts.sil.org/OFL)
+* [The original license text is here](https://openfontlicense.org/)
 
 <br/>
 
@@ -100,4 +100,4 @@ For example, images or PDF documents created using this font do not need to foll
 
 Copyright (c) 2007-2009 Das Ende der Wildnis (http://heiden.daynight.jp/),  
 Copyright (c) 2008-2020 Gutenberg Labo (https://gutenberg.osdn.jp/),  
-Copyright (c) 2019-2020 Gutenberg Labo (https://github.com/Gutenberg-Labo/)
+Copyright (c) 2019-2023 Gutenberg Labo (https://github.com/Gutenberg-Labo/)

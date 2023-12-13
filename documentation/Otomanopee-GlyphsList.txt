@@ -7,7 +7,9 @@ Otomanopee Font - Glyphs List
 - Latin Character Set -
 
 * Latin Alphabet
-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŁłŐőŒœŠšŰűŸŽžﬁﬂ
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĚÊËĖÈĒĘẼFGĞĢĠHĦIÍÎÏİÌĪĮĨJKĶLĹĽĻŁMNŃŇŅÑOÓÔÖÒŐØÕŒPÞQRŔŘSŚŠŞȘẞTŤȚUÚÛÜÙŰŪŲŮŨVWẂŴẄẀXYÝŶŸỲỸZŹŽŻ
+aáăâäàāąåãæbcćčçċdďđðeéěêëėèēęẽfgğģġhħiıíîïìīįĩjȷkķlĺľļłmnńňņñoóôöòőøõœpþqrŕřsśšşșßtťțuúûüùűūųůũvwẃŵẅẁxyýŷÿỳỹzźžżﬁﬂ
+[iDotAccent]
 
 * Greek Alphabet
 ΔΠΣΩμπ
@@ -16,7 +18,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÄÅÆÇÈÉÊËÌÍ
 0123456789¹²³⁴¼½¾
 
 * Punctation
-!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~¡¢£¤¥¦§¨©ª«¬®¯°±´µ¶·¸º»¿×÷ʻʼƒˆˇˉ˘˙˚˛˜˝–—―‖‘’‚“”„†‡•‥…‰′″‹›※⁄€ℓ™Ω℮↑↓∂∆∏∑−∕∙√∞∫≈≠≤≥◊�
+!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~¡¢£¤¥¦§¨©ª«¬®¯°±´µ¶·¸º»¿×÷ʻʼƒ ̈ ̇ ̀ ́ ̋ ̂ ̌ ̆ ̊ ̃ ̄ ̦ ̧ ̨ ˆˇˉ˘˙˚˛˜˝–—―‖‘’‚“”„†‡•‥…‰′″‹›※⁄€ℓ™Ω℮↑↓∂∆∏∑−∕∙√∞∫≈≠≤≥◊�
 [softHyphen][space][noBreakSpace][enSpace][zeroWidthSpace][thinSpace][zeroWidthNoBreakSpace]
 
 

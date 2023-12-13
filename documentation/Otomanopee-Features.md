@@ -124,22 +124,120 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x00FD  | ý     | yacute                      | yacute.rotat                     |
 | 0x00FE  | þ     | thorn                       | thorn.rotat                      |
 | 0x00FF  | ÿ     | ydieresis                   | ydieresis.rotat                  |
+| 0x0100  | Ā     | Amacron                     | Amacron.rotat                    |
+| 0x0101  | ā     | amacron                     | amacron.rotat                    |
+| 0x0102  | Ă     | Abreve                      | Abreve.rotat                     |
+| 0x0103  | ă     | abreve                      | abreve.rotat                     |
+| 0x0104  | Ą     | Aogonek                     | Aogonek.rotat                    |
+| 0x0105  | ą     | aogonek                     | aogonek.rotat                    |
+| 0x0106  | Ć     | Cacute                      | Cacute.rotat                     |
+| 0x0107  | ć     | cacute                      | cacute.rotat                     |
+| 0x010A  | Ċ     | Cdotaccent                  | Cdotaccent.rotat                 |
+| 0x010B  | ċ     | cdotaccent                  | cdotaccent.rotat                 |
+| 0x010C  | Č     | Ccaron                      | Ccaron.rotat                     |
+| 0x010D  | č     | ccaron                      | ccaron.rotat                     |
+| 0x010E  | Ď     | Dcaron                      | Dcaron.rotat                     |
+| 0x010F  | ď     | dcaron                      | dcaron.rotat                     |
+| 0x0110  | Đ     | Dcroat                      | Dcroat.rotat                     |
+| 0x0111  | đ     | dcroat                      | dcroat.rotat                     |
+| 0x0112  | Ē     | Emacron                     | Emacron.rotat                    |
+| 0x0113  | ē     | emacron                     | emacron.rotat                    |
+| 0x0116  | Ė     | Edotaccent                  | Edotaccent.rotat                 |
+| 0x0117  | ė     | edotaccent                  | edotaccent.rotat                 |
+| 0x0118  | Ę     | Eogonek                     | Eogonek.rotat                    |
+| 0x0119  | ę     | eogonek                     | eogonek.rotat                    |
+| 0x011A  | Ě     | Ecaron                      | Ecaron.rotat                     |
+| 0x011B  | ě     | ecaron                      | ecaron.rotat                     |
+| 0x011E  | Ğ     | Gbreve                      | Gbreve.rotat                     |
+| 0x011F  | ğ     | gbreve                      | gbreve.rotat                     |
+| 0x0120  | Ġ     | Gdotaccent                  | Gdotaccent.rotat                 |
+| 0x0121  | ġ     | gdotaccent                  | gdotaccent.rotat                 |
+| 0x0122  | Ģ     | Gcommaaccent                | Gcommaaccent.rotat               |
+| 0x0123  | ģ     | gcommaaccent                | gcommaaccent.rotat               |
+| 0x0126  | Ħ     | Hbar                        | Hbar.rotat                       |
+| 0x0127  | ħ     | hbar                        | hbar.rotat                       |
+| 0x0128  | Ĩ     | Itilde                      | Itilde.rotat                     |
+| 0x0129  | ĩ     | itilde                      | itilde.rotat                     |
+| 0x012A  | Ī     | Imacron                     | Imacron.rotat                    |
+| 0x012B  | ī     | imacron                     | imacron.rotat                    |
+| 0x012E  | Į     | Iogonek                     | Iogonek.rotat                    |
+| 0x012F  | į     | iogonek                     | iogonek.rotat                    |
+| 0x0130  | İ     | Idotaccent                  | Idotaccent.rotat                 |
 | 0x0131  | ı     | idotless                    | idotless.rotat                   |
+| 0x0136  | Ķ     | Kcommaaccent                | Kcommaaccent.rotat               |
+| 0x0137  | ķ     | kcommaaccent                | kcommaaccent.rotat               |
+| 0x0139  | Ĺ     | Lacute                      | Lacute.rotat                     |
+| 0x013A  | ĺ     | lacute                      | lacute.rotat                     |
+| 0x013B  | Ļ     | Lcommaaccent                | Lcommaaccent.rotat               |
+| 0x013C  | ļ     | lcommaaccent                | lcommaaccent.rotat               |
+| 0x013D  | Ľ     | Lcaron                      | Lcaron.rotat                     |
+| 0x013E  | ľ     | lcaron                      | lcaron.rotat                     |
 | 0x0141  | Ł     | Lslash                      | Lslash.rotat                     |
 | 0x0142  | ł     | lslash                      | lslash.rotat                     |
+| 0x0143  | Ń     | Nacute                      | Nacute.rotat                     |
+| 0x0144  | ń     | nacute                      | nacute.rotat                     |
+| 0x0145  | Ņ     | Ncommaaccent                | Ncommaaccent.rotat               |
+| 0x0146  | ņ     | ncommaaccent                | ncommaaccent.rotat               |
+| 0x0147  | Ň     | Ncaron                      | Ncaron.rotat                     |
+| 0x0148  | ň     | ncaron                      | ncaron.rotat                     |
 | 0x0150  | Ő     | Ohungarumlaut               | Ohungarumlaut.rotat              |
 | 0x0151  | ő     | ohungarumlaut               | ohungarumlaut.rotat              |
 | 0x0152  | Œ     | OE                          | OE.rotat                         |
 | 0x0153  | œ     | oe                          | oe.rotat                         |
+| 0x0154  | Ŕ     | Racute                      | Racute.rotat                     |
+| 0x0155  | ŕ     | racute                      | racute.rotat                     |
+| 0x0158  | Ř     | Rcaron                      | Rcaron.rotat                     |
+| 0x0159  | ř     | rcaron                      | rcaron.rotat                     |
+| 0x015A  | Ś     | Sacute                      | Sacute.rotat                     |
+| 0x015B  | ś     | sacute                      | sacute.rotat                     |
+| 0x015E  | Ş     | Scedilla                    | Scedilla.rotat                   |
+| 0x015F  | ş     | scedilla                    | scedilla.rotat                   |
 | 0x0160  | Š     | Scaron                      | Scaron.rotat                     |
 | 0x0161  | š     | scaron                      | scaron.rotat                     |
+| 0x0164  | Ť     | Tcaron                      | Tcaron.rotat                     |
+| 0x0165  | ť     | tcaron                      | tcaron.rotat                     |
+| 0x0168  | Ũ     | Utilde                      | Utilde.rotat                     |
+| 0x0169  | ũ     | utilde                      | utilde.rotat                     |
+| 0x016A  | Ū     | Umacron                     | Umacron.rotat                    |
+| 0x016B  | ū     | umacron                     | umacron.rotat                    |
+| 0x016E  | Ů     | Uring                       | Uring.rotat                      |
+| 0x016F  | ů     | uring                       | uring.rotat                      |
 | 0x0170  | Ű     | Uhungarumlaut               | Uhungarumlaut.rotat              |
 | 0x0171  | ű     | uhungarumlaut               | uhungarumlaut.rotat              |
+| 0x0172  | Ų     | Uogonek                     | Uogonek.rotat                    |
+| 0x0173  | ų     | uogonek                     | uogonek.rotat                    |
+| 0x0174  | Ŵ     | Wcircumflex                 | Wcircumflex.rotat                |
+| 0x0175  | ŵ     | wcircumflex                 | wcircumflex.rotat                |
+| 0x0176  | Ŷ     | Ycircumflex                 | Ycircumflex.rotat                |
+| 0x0177  | ŷ     | ycircumflex                 | ycircumflex.rotat                |
 | 0x0178  | Ÿ     | Ydieresis                   | Ydieresis.rotat                  |
+| 0x0179  | Ź     | Zacute                      | Zacute.rotat                     |
+| 0x017A  | ź     | zacute                      | zacute.rotat                     |
+| 0x017B  | Ż     | Zdotaccent                  | Zdotaccent.rotat                 |
+| 0x017C  | ż     | zdotaccent                  | zdotaccent.rotat                 |
 | 0x017D  | Ž     | Zcaron                      | Zcaron.rotat                     |
 | 0x017E  | ž     | zcaron                      | zcaron.rotat                     |
+| 0x0218  | Ș     | Scommaaccent                | Scommaaccent.rotat               |
+| 0x0219  | ș     | scommaaccent                | scommaaccent.rotat               |
+| 0x021A  | Ț     | Tcommaaccent                | Tcommaaccent.rotat               |
+| 0x021B  | ț     | tcommaaccent                | tcommaaccent.rotat               |
+| 0x0237  | ȷ     | jdotless                    | jdotless.rotat                   |
+| 0x1E80  | Ẁ     | Wgrave                      | Wgrave.rotat                     |
+| 0x1E81  | ẁ     | wgrave                      | wgrave.rotat                     |
+| 0x1E82  | Ẃ     | Wacute                      | Wacute.rotat                     |
+| 0x1E83  | ẃ     | wacute                      | wacute.rotat                     |
+| 0x1E84  | Ẅ     | Wdieresis                   | Wdieresis.rotat                  |
+| 0x1E85  | ẅ     | wdieresis                   | wdieresis.rotat                  |
+| 0x1E9E  | ẞ     | Germandbls                  | Germandbls.rotat                 |
+| 0x1EBC  | Ẽ     | Etilde                      | Etilde.rotat                     |
+| 0x1EBD  | ẽ     | etilde                      | etilde.rotat                     |
+| 0x1EF2  | Ỳ     | Ygrave                      | Ygrave.rotat                     |
+| 0x1EF3  | ỳ     | ygrave                      | ygrave.rotat                     |
+| 0x1EF8  | Ỹ     | Ytilde                      | Ytilde.rotat                     |
+| 0x1EF9  | ỹ     | ytilde                      | ytilde.rotat                     |
 | 0xFB01  | ﬁ     | fi                          | fi.rotat                         |
 | 0xFB02  | ﬂ     | fl                          | fl.rotat                         |
+|         | i     | idotaccent                  | idotaccent.rotat                 |
 
 
 ### Greek Alphabet
@@ -254,6 +352,20 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x02DB  | ˛     | ogonek                      | ogonek.rotat                     |
 | 0x02DC  | ˜     | tilde                       | tilde.rotat                      |
 | 0x02DD  | ˝     | hungarumlaut                | hungarumlaut.rotat               |
+| 0x0300  | `     | gravecomb                   |                                  |
+| 0x0301  | ´    | acutecomb                   |                                  |
+| 0x0302  | ^     | circumflexcomb              |                                  |
+| 0x0303  | ˜     | tildecomb                   |                                  |
+| 0x0304  | ¯     | macroncomb                  |                                  |
+| 0x0306  | ˘     | brevecomb                   |                                  |
+| 0x0307  | ˙     | dotaccentcomb               |                                  |
+| 0x0308  | ¨    | dieresiscomb                |                                  |
+| 0x030A  | ˚     | ringcomb                    |                                  |
+| 0x030B  | ˝     | hungarumlautcomb            |                                  |
+| 0x030C  | ˇ     | caroncomb                   |                                  |
+| 0x0326  | ,     | commaaccentcomb             |                                  |
+| 0x0327  | ¸     | cedillacomb                 |                                  |
+| 0x0328  | ˛     | ogonekcomb                  |                                  |
 | 0x2002  |       | enSpace                     | enSpace.rotat                    |
 | 0x2009  |       | thinSpace                   | thinSpace.rotat                  |
 | 0x200B  |       | zerowidthspace              | zeroWidthSpace.rotat             |

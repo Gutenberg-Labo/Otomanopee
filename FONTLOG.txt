@@ -24,11 +24,14 @@ Change Log for the Otomanopee font
 
 * 2020-Nov-11, Otomanopee Ver. 3.003
 	* Fixed outline errors.
-	* Added Punctuation to support Adobe Western 2 Character Set.
+	* Added Punctuation to support Adobe Latin 2 Character Set.
 	* Added Japanese punctuation.
 
 * 2022-May-23, Otomanopee Ver. 3.004
 	* Added U+0150, U+0151, U+0170, U+0171 of Latin Extended-A.
+
+* 2023-Dec-12, Otomanopee Ver. 3.005
+	* Reviewed and added GF Latin Core Glyph Set.
 
 
 Otomanopee 更新履歴
@@ -53,8 +56,11 @@ Otomanopee 更新履歴
 
 * 2020-Nov-11, Otomanopee Ver. 3.003
 	* アウトラインのエラーを修正。
-	* 欧文用約物を追加し Adobe Western 2 文字セットに対応。
+	* 欧文用約物を追加し Adobe Latin 2 文字セットに対応。
 	* 和文用約物を追加。
 
 * 2022-May-23, Otomanopee Ver. 3.004
 	* ラテン文字拡張Aのうち U+0150, U+0151, U+0170, U+0171 を追加。
+
+* 2023-Dec-12, Otomanopee Ver. 3.005
+	* GF Latin Core 文字セットを見直し、改めて追加。
