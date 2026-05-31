@@ -33,6 +33,10 @@ Change Log for the Otomanopee font
 * 2023-Dec-12, Otomanopee Ver. 3.005
 	* Reviewed and added GF Latin Core Glyph Set.
 
+* 2026-May-31, Otomanopee Ver. 3.006
+	* Support Adobe Latin 3 Character Set.
+	* Added 400 Kanji.
+
 
 Otomanopee 更新履歴
 
@@ -64,3 +68,7 @@ Otomanopee 更新履歴
 
 * 2023-Dec-12, Otomanopee Ver. 3.005
 	* GF Latin Core 文字セットを見直し、改めて追加。
+
+* 2026-May-31, Otomanopee Ver. 3.006
+	* Adobe Latin 3 文字セットに対応。
+	* 漢字400字を追加。

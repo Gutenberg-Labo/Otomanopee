@@ -4,31 +4,29 @@
 
 ## About Otomanopee / Otomanopee について
 
-Google Fonts version of "GL-Otomanopee," open source Japanese font inspired graphical letters in manga.  
-The difference from the original distribution is as follows.
+Google Fonts version of "GL-Otomanopee," open source Japanese font inspired graphical letters in manga. 
 
 * Licenced by **SIL Open Font License Version 1.1**
-* Covers [Adobe Latin 2 Character Set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html) and [GF Latin Core Glyph Set](https://github.com/googlefonts/glyphsets/blob/main/GF_glyphsets/Latin/nam/GF_Latin_Core.nam)
-* Contains 240 glyphs of Kanji learned in 1st and 2nd grade in Japanese elementary school
+* Covers [Adobe Latin 3 Character Set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-3.html) and [GF Latin Core Glyph Set](https://github.com/googlefonts/glyphsets/blob/main/GF_glyphsets/Latin/nam/GF_Latin_Core.nam)
+* Contains 440 glyphs of Kanji learned in 1st to 3rd grade in Japanese elementary school
 
 <br/>
 
-漫画の描き文字をイメージしたオープンソースかな文字フォント「GL-オとマのペ」の Google Fonts 提供版です。  
-本家配布版との違いは以下の通りです。
+漫画の描き文字をイメージしたオープンソースかな文字フォント「GL-オとマのペ」の Google Fonts 提供版です。 
 
 * ライセンスが **SIL Open Font License Version 1.1** へ変更
-* [Adobe Latin 2 文字セット](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-2.html)および[GF Latin Core 文字セット](https://github.com/googlefonts/glyphsets/blob/main/GF_glyphsets/Latin/nam/GF_Latin_Core.nam)をカバー
-* 小学1年・2年で習う教育漢字計240文字を収録
+* [Adobe Latin 3 文字セット](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-3.html)および[GF Latin Core 文字セット](https://github.com/googlefonts/glyphsets/blob/main/GF_glyphsets/Latin/nam/GF_Latin_Core.nam)をカバー
+* 小学1年〜3年で習う教育漢字計440文字を収録
 
 ******
 
 ## Character Set / 収録文字
 
 * Latin character set
-	* Latin alphabet - 228 glyphs
+	* Latin alphabet - 234 glyphs
 	* Greek alphabet - 6 glyphs
 	* Numerals - 17 glyphs
-	* Punctuation - 136 glyphs
+	* Punctuation - 140 glyphs
 * Japanese character set
 	* Fullwidth Latin alphabet - 52 glyphs
 	* Fullwidth numerals - 10 glyphs
@@ -36,16 +34,16 @@ The difference from the original distribution is as follows.
 	* Hiragana - 87 glyphs
 	* Katakana - 107 glyphs
 	* Halfwidth Katakana - 63 glyphs
-* Kanji (CJK Unified Ideographs) - 240 glyphs
+* Kanji (CJK Unified Ideographs) - 440 glyphs
 * Others - 3 glyphs
 
 <br/>
 
 * 欧文グリフ
-	* ラテン文字 228文字
+	* ラテン文字 234文字
 	* ギリシア文字 6文字
 	* 数字 17文字
-	* 約物 136文字
+	* 約物 140文字
 * 和文グリフ
 	* 全角ラテン文字 52文字
 	* 全角数字 10文字
@@ -53,7 +51,7 @@ The difference from the original distribution is as follows.
 	* ひらがな 87文字
 	* カタカナ 107文字
 	* 半角カナ 63文字
-* 漢字 240文字（小学1年生および小学2年生で習う漢字）
+* 漢字 440文字（小学1年生〜小学3年生で習う漢字）
 * その他 3文字
 
 ******
@@ -100,4 +98,4 @@ For example, images or PDF documents created using this font do not need to foll
 
 Copyright (c) 2007-2009 Das Ende der Wildnis (http://heiden.daynight.jp/),  
 Copyright (c) 2008-2020 Gutenberg Labo (https://gutenberg.osdn.jp/),  
-Copyright (c) 2019-2023 Gutenberg Labo (https://github.com/Gutenberg-Labo/)
+Copyright (c) 2019-2026 Gutenberg Labo (https://github.com/Gutenberg-Labo/)
