@@ -180,12 +180,16 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x0146  | ņ     | ncommaaccent                | ncommaaccent.rotat               |
 | 0x0147  | Ň     | Ncaron                      | Ncaron.rotat                     |
 | 0x0148  | ň     | ncaron                      | ncaron.rotat                     |
+| 0x014C  | Ō     | Omacron                     | Omacron.rotat                    |
+| 0x014D  | ō     | omacron                     | omacron.rotat                    |
 | 0x0150  | Ő     | Ohungarumlaut               | Ohungarumlaut.rotat              |
 | 0x0151  | ő     | ohungarumlaut               | ohungarumlaut.rotat              |
 | 0x0152  | Œ     | OE                          | OE.rotat                         |
 | 0x0153  | œ     | oe                          | oe.rotat                         |
 | 0x0154  | Ŕ     | Racute                      | Racute.rotat                     |
 | 0x0155  | ŕ     | racute                      | racute.rotat                     |
+| 0x0156  | Ŗ     | Rcommaaccent                | Rcommaaccent.rotat               |
+| 0x0157  | ŗ     | rcommaaccent                | rcommaaccent.rotat               |
 | 0x0158  | Ř     | Rcaron                      | Rcaron.rotat                     |
 | 0x0159  | ř     | rcaron                      | rcaron.rotat                     |
 | 0x015A  | Ś     | Sacute                      | Sacute.rotat                     |
@@ -194,6 +198,8 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x015F  | ş     | scedilla                    | scedilla.rotat                   |
 | 0x0160  | Š     | Scaron                      | Scaron.rotat                     |
 | 0x0161  | š     | scaron                      | scaron.rotat                     |
+| 0x0162  | Ţ     | Tcedilla                    | Tcedilla.rotat                   |
+| 0x0163  | ţ     | tcedilla                    | tcedilla.rotat                   |
 | 0x0164  | Ť     | Tcaron                      | Tcaron.rotat                     |
 | 0x0165  | ť     | tcaron                      | tcaron.rotat                     |
 | 0x0168  | Ũ     | Utilde                      | Utilde.rotat                     |
@@ -378,11 +384,15 @@ https://github.com/Gutenberg-Labo/Otomanopee
 | 0x203B  | ※    | referencemark               |                                  |
 | 0x2044  | ⁄     | fraction                    | fraction.rotat                   |
 | 0x20AC  | €     | euro                        | euro.rotat                       |
+| 0x20BA  | ₺     | liraTurkish                 | liraTurkish.rotat                |
+| 0x20BD  | ₽     | ruble                       | ruble.rotat                      |
 | 0x2113  | ℓ    | literSign                   | literSign.rotat                  |
 | 0x2122  | ™     | trademark                   | trademark.rotat                  |
 | 0x2126  | Ω    | Ohm                         | Ohm.rotat                        |
 | 0x212E  | ℮     | estimated                   | estimated.rotat                  |
+| 0x2190  | ←    | leftArrow                   | leftArrow.rotat                  |
 | 0x2191  | ↑    | upArrow                     | upArrow.rotat                    |
+| 0x2192  | →    | rightArrow                  | rightArrow.rotat                 |
 | 0x2193  | ↓    | downArrow                   | downArrow.rotat                  |
 | 0x2202  | ∂    | partialdiff                 | partialdiff.rotat                |
 | 0x2206  | ∆     | increment                   | increment.rotat                  |
@@ -877,249 +887,7 @@ https://github.com/Gutenberg-Labo/Otomanopee
 
 ### Kanji (CJK Unified Ideographs)
 
-| unicode | Glyph | GlyphName                   | Features or Alternate            |
-|---------|-------|-----------------------------|----------------------------------|
-| 0x4E00  | 一    | (CJK Unified Ideographs)    |                                  |
-| 0x4E03  | 七    | (CJK Unified Ideographs)    |                                  |
-| 0x4E07  | 万    | (CJK Unified Ideographs)    |                                  |
-| 0x4E09  | 三    | (CJK Unified Ideographs)    |                                  |
-| 0x4E0A  | 上    | (CJK Unified Ideographs)    |                                  |
-| 0x4E0B  | 下    | (CJK Unified Ideographs)    |                                  |
-| 0x4E2D  | 中    | (CJK Unified Ideographs)    |                                  |
-| 0x4E38  | 丸    | (CJK Unified Ideographs)    |                                  |
-| 0x4E5D  | 九    | (CJK Unified Ideographs)    |                                  |
-| 0x4E8C  | 二    | (CJK Unified Ideographs)    |                                  |
-| 0x4E94  | 五    | (CJK Unified Ideographs)    |                                  |
-| 0x4EA4  | 交    | (CJK Unified Ideographs)    |                                  |
-| 0x4EAC  | 京    | (CJK Unified Ideographs)    |                                  |
-| 0x4EBA  | 人    | (CJK Unified Ideographs)    |                                  |
-| 0x4ECA  | 今    | (CJK Unified Ideographs)    |                                  |
-| 0x4F11  | 休    | (CJK Unified Ideographs)    |                                  |
-| 0x4F1A  | 会    | (CJK Unified Ideographs)    |                                  |
-| 0x4F53  | 体    | (CJK Unified Ideographs)    |                                  |
-| 0x4F55  | 何    | (CJK Unified Ideographs)    |                                  |
-| 0x4F5C  | 作    | (CJK Unified Ideographs)    |                                  |
-| 0x5143  | 元    | (CJK Unified Ideographs)    |                                  |
-| 0x5144  | 兄    | (CJK Unified Ideographs)    |                                  |
-| 0x5148  | 先    | (CJK Unified Ideographs)    |                                  |
-| 0x5149  | 光    | (CJK Unified Ideographs)    |                                  |
-| 0x5165  | 入    | (CJK Unified Ideographs)    |                                  |
-| 0x516B  | 八    | (CJK Unified Ideographs)    |                                  |
-| 0x516C  | 公    | (CJK Unified Ideographs)    |                                  |
-| 0x516D  | 六    | (CJK Unified Ideographs)    |                                  |
-| 0x5185  | 内    | (CJK Unified Ideographs)    |                                  |
-| 0x5186  | 円    | (CJK Unified Ideographs)    |                                  |
-| 0x51AC  | 冬    | (CJK Unified Ideographs)    |                                  |
-| 0x51FA  | 出    | (CJK Unified Ideographs)    |                                  |
-| 0x5200  | 刀    | (CJK Unified Ideographs)    |                                  |
-| 0x5206  | 分    | (CJK Unified Ideographs)    |                                  |
-| 0x5207  | 切    | (CJK Unified Ideographs)    |                                  |
-| 0x524D  | 前    | (CJK Unified Ideographs)    |                                  |
-| 0x529B  | 力    | (CJK Unified Ideographs)    |                                  |
-| 0x5317  | 北    | (CJK Unified Ideographs)    |                                  |
-| 0x5341  | 十    | (CJK Unified Ideographs)    |                                  |
-| 0x5343  | 千    | (CJK Unified Ideographs)    |                                  |
-| 0x5348  | 午    | (CJK Unified Ideographs)    |                                  |
-| 0x534A  | 半    | (CJK Unified Ideographs)    |                                  |
-| 0x5357  | 南    | (CJK Unified Ideographs)    |                                  |
-| 0x539F  | 原    | (CJK Unified Ideographs)    |                                  |
-| 0x53CB  | 友    | (CJK Unified Ideographs)    |                                  |
-| 0x53E3  | 口    | (CJK Unified Ideographs)    |                                  |
-| 0x53E4  | 古    | (CJK Unified Ideographs)    |                                  |
-| 0x53F0  | 台    | (CJK Unified Ideographs)    |                                  |
-| 0x53F3  | 右    | (CJK Unified Ideographs)    |                                  |
-| 0x5408  | 合    | (CJK Unified Ideographs)    |                                  |
-| 0x540C  | 同    | (CJK Unified Ideographs)    |                                  |
-| 0x540D  | 名    | (CJK Unified Ideographs)    |                                  |
-| 0x56DB  | 四    | (CJK Unified Ideographs)    |                                  |
-| 0x56DE  | 回    | (CJK Unified Ideographs)    |                                  |
-| 0x56F3  | 図    | (CJK Unified Ideographs)    |                                  |
-| 0x56FD  | 国    | (CJK Unified Ideographs)    |                                  |
-| 0x5712  | 園    | (CJK Unified Ideographs)    |                                  |
-| 0x571F  | 土    | (CJK Unified Ideographs)    |                                  |
-| 0x5730  | 地    | (CJK Unified Ideographs)    |                                  |
-| 0x5834  | 場    | (CJK Unified Ideographs)    |                                  |
-| 0x58F0  | 声    | (CJK Unified Ideographs)    |                                  |
-| 0x58F2  | 売    | (CJK Unified Ideographs)    |                                  |
-| 0x590F  | 夏    | (CJK Unified Ideographs)    |                                  |
-| 0x5915  | 夕    | (CJK Unified Ideographs)    |                                  |
-| 0x5916  | 外    | (CJK Unified Ideographs)    |                                  |
-| 0x591A  | 多    | (CJK Unified Ideographs)    |                                  |
-| 0x591C  | 夜    | (CJK Unified Ideographs)    |                                  |
-| 0x5927  | 大    | (CJK Unified Ideographs)    |                                  |
-| 0x5929  | 天    | (CJK Unified Ideographs)    |                                  |
-| 0x592A  | 太    | (CJK Unified Ideographs)    |                                  |
-| 0x5973  | 女    | (CJK Unified Ideographs)    |                                  |
-| 0x59B9  | 妹    | (CJK Unified Ideographs)    |                                  |
-| 0x59C9  | 姉    | (CJK Unified Ideographs)    |                                  |
-| 0x5B50  | 子    | (CJK Unified Ideographs)    |                                  |
-| 0x5B57  | 字    | (CJK Unified Ideographs)    |                                  |
-| 0x5B66  | 学    | (CJK Unified Ideographs)    |                                  |
-| 0x5BA4  | 室    | (CJK Unified Ideographs)    |                                  |
-| 0x5BB6  | 家    | (CJK Unified Ideographs)    |                                  |
-| 0x5BFA  | 寺    | (CJK Unified Ideographs)    |                                  |
-| 0x5C0F  | 小    | (CJK Unified Ideographs)    |                                  |
-| 0x5C11  | 少    | (CJK Unified Ideographs)    |                                  |
-| 0x5C71  | 山    | (CJK Unified Ideographs)    |                                  |
-| 0x5CA9  | 岩    | (CJK Unified Ideographs)    |                                  |
-| 0x5DDD  | 川    | (CJK Unified Ideographs)    |                                  |
-| 0x5DE5  | 工    | (CJK Unified Ideographs)    |                                  |
-| 0x5DE6  | 左    | (CJK Unified Ideographs)    |                                  |
-| 0x5E02  | 市    | (CJK Unified Ideographs)    |                                  |
-| 0x5E30  | 帰    | (CJK Unified Ideographs)    |                                  |
-| 0x5E74  | 年    | (CJK Unified Ideographs)    |                                  |
-| 0x5E83  | 広    | (CJK Unified Ideographs)    |                                  |
-| 0x5E97  | 店    | (CJK Unified Ideographs)    |                                  |
-| 0x5F13  | 弓    | (CJK Unified Ideographs)    |                                  |
-| 0x5F15  | 引    | (CJK Unified Ideographs)    |                                  |
-| 0x5F1F  | 弟    | (CJK Unified Ideographs)    |                                  |
-| 0x5F31  | 弱    | (CJK Unified Ideographs)    |                                  |
-| 0x5F37  | 強    | (CJK Unified Ideographs)    |                                  |
-| 0x5F53  | 当    | (CJK Unified Ideographs)    |                                  |
-| 0x5F62  | 形    | (CJK Unified Ideographs)    |                                  |
-| 0x5F8C  | 後    | (CJK Unified Ideographs)    |                                  |
-| 0x5FC3  | 心    | (CJK Unified Ideographs)    |                                  |
-| 0x601D  | 思    | (CJK Unified Ideographs)    |                                  |
-| 0x6238  | 戸    | (CJK Unified Ideographs)    |                                  |
-| 0x624B  | 手    | (CJK Unified Ideographs)    |                                  |
-| 0x624D  | 才    | (CJK Unified Ideographs)    |                                  |
-| 0x6559  | 教    | (CJK Unified Ideographs)    |                                  |
-| 0x6570  | 数    | (CJK Unified Ideographs)    |                                  |
-| 0x6587  | 文    | (CJK Unified Ideographs)    |                                  |
-| 0x65B0  | 新    | (CJK Unified Ideographs)    |                                  |
-| 0x65B9  | 方    | (CJK Unified Ideographs)    |                                  |
-| 0x65E5  | 日    | (CJK Unified Ideographs)    |                                  |
-| 0x65E9  | 早    | (CJK Unified Ideographs)    |                                  |
-| 0x660E  | 明    | (CJK Unified Ideographs)    |                                  |
-| 0x661F  | 星    | (CJK Unified Ideographs)    |                                  |
-| 0x6625  | 春    | (CJK Unified Ideographs)    |                                  |
-| 0x663C  | 昼    | (CJK Unified Ideographs)    |                                  |
-| 0x6642  | 時    | (CJK Unified Ideographs)    |                                  |
-| 0x6674  | 晴    | (CJK Unified Ideographs)    |                                  |
-| 0x66DC  | 曜    | (CJK Unified Ideographs)    |                                  |
-| 0x66F8  | 書    | (CJK Unified Ideographs)    |                                  |
-| 0x6708  | 月    | (CJK Unified Ideographs)    |                                  |
-| 0x671D  | 朝    | (CJK Unified Ideographs)    |                                  |
-| 0x6728  | 木    | (CJK Unified Ideographs)    |                                  |
-| 0x672C  | 本    | (CJK Unified Ideographs)    |                                  |
-| 0x6751  | 村    | (CJK Unified Ideographs)    |                                  |
-| 0x6765  | 来    | (CJK Unified Ideographs)    |                                  |
-| 0x6771  | 東    | (CJK Unified Ideographs)    |                                  |
-| 0x6797  | 林    | (CJK Unified Ideographs)    |                                  |
-| 0x6821  | 校    | (CJK Unified Ideographs)    |                                  |
-| 0x68EE  | 森    | (CJK Unified Ideographs)    |                                  |
-| 0x697D  | 楽    | (CJK Unified Ideographs)    |                                  |
-| 0x6B4C  | 歌    | (CJK Unified Ideographs)    |                                  |
-| 0x6B62  | 止    | (CJK Unified Ideographs)    |                                  |
-| 0x6B63  | 正    | (CJK Unified Ideographs)    |                                  |
-| 0x6B69  | 歩    | (CJK Unified Ideographs)    |                                  |
-| 0x6BCD  | 母    | (CJK Unified Ideographs)    |                                  |
-| 0x6BCE  | 毎    | (CJK Unified Ideographs)    |                                  |
-| 0x6BDB  | 毛    | (CJK Unified Ideographs)    |                                  |
-| 0x6C17  | 気    | (CJK Unified Ideographs)    |                                  |
-| 0x6C34  | 水    | (CJK Unified Ideographs)    |                                  |
-| 0x6C60  | 池    | (CJK Unified Ideographs)    |                                  |
-| 0x6C7D  | 汽    | (CJK Unified Ideographs)    |                                  |
-| 0x6D3B  | 活    | (CJK Unified Ideographs)    |                                  |
-| 0x6D77  | 海    | (CJK Unified Ideographs)    |                                  |
-| 0x706B  | 火    | (CJK Unified Ideographs)    |                                  |
-| 0x70B9  | 点    | (CJK Unified Ideographs)    |                                  |
-| 0x7236  | 父    | (CJK Unified Ideographs)    |                                  |
-| 0x725B  | 牛    | (CJK Unified Ideographs)    |                                  |
-| 0x72AC  | 犬    | (CJK Unified Ideographs)    |                                  |
-| 0x7389  | 玉    | (CJK Unified Ideographs)    |                                  |
-| 0x738B  | 王    | (CJK Unified Ideographs)    |                                  |
-| 0x7406  | 理    | (CJK Unified Ideographs)    |                                  |
-| 0x751F  | 生    | (CJK Unified Ideographs)    |                                  |
-| 0x7528  | 用    | (CJK Unified Ideographs)    |                                  |
-| 0x7530  | 田    | (CJK Unified Ideographs)    |                                  |
-| 0x7537  | 男    | (CJK Unified Ideographs)    |                                  |
-| 0x753A  | 町    | (CJK Unified Ideographs)    |                                  |
-| 0x753B  | 画    | (CJK Unified Ideographs)    |                                  |
-| 0x756A  | 番    | (CJK Unified Ideographs)    |                                  |
-| 0x767D  | 白    | (CJK Unified Ideographs)    |                                  |
-| 0x767E  | 百    | (CJK Unified Ideographs)    |                                  |
-| 0x76EE  | 目    | (CJK Unified Ideographs)    |                                  |
-| 0x76F4  | 直    | (CJK Unified Ideographs)    |                                  |
-| 0x77E2  | 矢    | (CJK Unified Ideographs)    |                                  |
-| 0x77E5  | 知    | (CJK Unified Ideographs)    |                                  |
-| 0x77F3  | 石    | (CJK Unified Ideographs)    |                                  |
-| 0x793E  | 社    | (CJK Unified Ideographs)    |                                  |
-| 0x79CB  | 秋    | (CJK Unified Ideographs)    |                                  |
-| 0x79D1  | 科    | (CJK Unified Ideographs)    |                                  |
-| 0x7A7A  | 空    | (CJK Unified Ideographs)    |                                  |
-| 0x7ACB  | 立    | (CJK Unified Ideographs)    |                                  |
-| 0x7AF9  | 竹    | (CJK Unified Ideographs)    |                                  |
-| 0x7B54  | 答    | (CJK Unified Ideographs)    |                                  |
-| 0x7B97  | 算    | (CJK Unified Ideographs)    |                                  |
-| 0x7C73  | 米    | (CJK Unified Ideographs)    |                                  |
-| 0x7CF8  | 糸    | (CJK Unified Ideographs)    |                                  |
-| 0x7D19  | 紙    | (CJK Unified Ideographs)    |                                  |
-| 0x7D30  | 細    | (CJK Unified Ideographs)    |                                  |
-| 0x7D44  | 組    | (CJK Unified Ideographs)    |                                  |
-| 0x7D75  | 絵    | (CJK Unified Ideographs)    |                                  |
-| 0x7DDA  | 線    | (CJK Unified Ideographs)    |                                  |
-| 0x7FBD  | 羽    | (CJK Unified Ideographs)    |                                  |
-| 0x8003  | 考    | (CJK Unified Ideographs)    |                                  |
-| 0x8033  | 耳    | (CJK Unified Ideographs)    |                                  |
-| 0x805E  | 聞    | (CJK Unified Ideographs)    |                                  |
-| 0x8089  | 肉    | (CJK Unified Ideographs)    |                                  |
-| 0x81EA  | 自    | (CJK Unified Ideographs)    |                                  |
-| 0x8239  | 船    | (CJK Unified Ideographs)    |                                  |
-| 0x8272  | 色    | (CJK Unified Ideographs)    |                                  |
-| 0x82B1  | 花    | (CJK Unified Ideographs)    |                                  |
-| 0x8336  | 茶    | (CJK Unified Ideographs)    |                                  |
-| 0x8349  | 草    | (CJK Unified Ideographs)    |                                  |
-| 0x866B  | 虫    | (CJK Unified Ideographs)    |                                  |
-| 0x884C  | 行    | (CJK Unified Ideographs)    |                                  |
-| 0x897F  | 西    | (CJK Unified Ideographs)    |                                  |
-| 0x898B  | 見    | (CJK Unified Ideographs)    |                                  |
-| 0x89AA  | 親    | (CJK Unified Ideographs)    |                                  |
-| 0x89D2  | 角    | (CJK Unified Ideographs)    |                                  |
-| 0x8A00  | 言    | (CJK Unified Ideographs)    |                                  |
-| 0x8A08  | 計    | (CJK Unified Ideographs)    |                                  |
-| 0x8A18  | 記    | (CJK Unified Ideographs)    |                                  |
-| 0x8A71  | 話    | (CJK Unified Ideographs)    |                                  |
-| 0x8A9E  | 語    | (CJK Unified Ideographs)    |                                  |
-| 0x8AAD  | 読    | (CJK Unified Ideographs)    |                                  |
-| 0x8C37  | 谷    | (CJK Unified Ideographs)    |                                  |
-| 0x8C9D  | 貝    | (CJK Unified Ideographs)    |                                  |
-| 0x8CB7  | 買    | (CJK Unified Ideographs)    |                                  |
-| 0x8D64  | 赤    | (CJK Unified Ideographs)    |                                  |
-| 0x8D70  | 走    | (CJK Unified Ideographs)    |                                  |
-| 0x8DB3  | 足    | (CJK Unified Ideographs)    |                                  |
-| 0x8ECA  | 車    | (CJK Unified Ideographs)    |                                  |
-| 0x8FD1  | 近    | (CJK Unified Ideographs)    |                                  |
-| 0x901A  | 通    | (CJK Unified Ideographs)    |                                  |
-| 0x9031  | 週    | (CJK Unified Ideographs)    |                                  |
-| 0x9053  | 道    | (CJK Unified Ideographs)    |                                  |
-| 0x9060  | 遠    | (CJK Unified Ideographs)    |                                  |
-| 0x91CC  | 里    | (CJK Unified Ideographs)    |                                  |
-| 0x91CE  | 野    | (CJK Unified Ideographs)    |                                  |
-| 0x91D1  | 金    | (CJK Unified Ideographs)    |                                  |
-| 0x9577  | 長    | (CJK Unified Ideographs)    |                                  |
-| 0x9580  | 門    | (CJK Unified Ideographs)    |                                  |
-| 0x9593  | 間    | (CJK Unified Ideographs)    |                                  |
-| 0x96E8  | 雨    | (CJK Unified Ideographs)    |                                  |
-| 0x96EA  | 雪    | (CJK Unified Ideographs)    |                                  |
-| 0x96F2  | 雲    | (CJK Unified Ideographs)    |                                  |
-| 0x96FB  | 電    | (CJK Unified Ideographs)    |                                  |
-| 0x9752  | 青    | (CJK Unified Ideographs)    |                                  |
-| 0x97F3  | 音    | (CJK Unified Ideographs)    |                                  |
-| 0x982D  | 頭    | (CJK Unified Ideographs)    |                                  |
-| 0x9854  | 顔    | (CJK Unified Ideographs)    |                                  |
-| 0x98A8  | 風    | (CJK Unified Ideographs)    |                                  |
-| 0x98DF  | 食    | (CJK Unified Ideographs)    |                                  |
-| 0x9996  | 首    | (CJK Unified Ideographs)    |                                  |
-| 0x99AC  | 馬    | (CJK Unified Ideographs)    |                                  |
-| 0x9AD8  | 高    | (CJK Unified Ideographs)    |                                  |
-| 0x9B5A  | 魚    | (CJK Unified Ideographs)    |                                  |
-| 0x9CE5  | 鳥    | (CJK Unified Ideographs)    |                                  |
-| 0x9CF4  | 鳴    | (CJK Unified Ideographs)    |                                  |
-| 0x9EA6  | 麦    | (CJK Unified Ideographs)    |                                  |
-| 0x9EC4  | 黄    | (CJK Unified Ideographs)    |                                  |
-| 0x9ED2  | 黒    | (CJK Unified Ideographs)    |                                  |
-
+一丁七万三上下世両中丸主乗九予事二五交京人今仕他代休会住体何作使係倍元兄先光入全八公六具内円写冬出刀分切列前力助勉動勝化北区医十千午半南原去友反取受口古台右号合同名向君味命和品員商問四回図国園土地坂場声売夏夕外多夜大天太央女妹姉始委子字学守安定実客室宮家宿寒寺対小少局屋山岩岸島川州工左市帰帳平年幸広店度庫庭式弓引弟弱強当形役待後心思急息悪悲想意感戸所手才打投拾持指放教数整文新方旅族日早明昔星春昭昼時晴暑暗曜曲書月有服朝期木本村来東板林柱校根森植業楽様横橋次歌止正歩歯死母毎毛気水氷池決汽油波注泳洋活流海消深温港湖湯漢火炭点父牛物犬玉王球理生用田由申男町画界畑番病発登白百皮皿目直相県真着矢知短石研礼社神祭福秋科秒究空立章童竹笛第筆等答算箱米糸紙級細終組絵緑線練羊美羽習考者耳聞肉育自船色花苦茶草荷落葉薬虫血行表西見親角言計記詩話語読調談谷豆貝負買赤走起足路身車転軽農近返追送通速週進遊運道遠部都配酒里重野金鉄銀長門開間院陽階集雨雪雲電青面音頭題顔風食飲館首馬駅高魚鳥鳴麦黄黒鼻
 
 ******
 
