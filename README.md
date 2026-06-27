@@ -8,7 +8,7 @@ Google Fonts version of "GL-Otomanopee," open source Japanese font inspired grap
 
 * Licenced by **SIL Open Font License Version 1.1**
 * Covers [Adobe Latin 3 Character Set](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-3.html) and [GF Latin Core Glyph Set](https://github.com/googlefonts/glyphsets/blob/main/GF_glyphsets/Latin/nam/GF_Latin_Core.nam)
-* Contains 440 glyphs of Kanji learned in 1st to 3rd grade in Japanese elementary school
+* Contains 1026 glyphs of Kanji learned in 1st to 6th grade in Japanese elementary school
 
 <br/>
 
@@ -16,7 +16,7 @@ Google Fonts version of "GL-Otomanopee," open source Japanese font inspired grap
 
 * ライセンスが **SIL Open Font License Version 1.1** へ変更
 * [Adobe Latin 3 文字セット](https://adobe-type-tools.github.io/adobe-latin-charsets/adobe-latin-3.html)および[GF Latin Core 文字セット](https://github.com/googlefonts/glyphsets/blob/main/GF_glyphsets/Latin/nam/GF_Latin_Core.nam)をカバー
-* 小学1年〜3年で習う教育漢字計440文字を収録
+* 教育漢字（小学校で習う漢字）1026文字を収録
 
 ******
 
@@ -34,7 +34,7 @@ Google Fonts version of "GL-Otomanopee," open source Japanese font inspired grap
 	* Hiragana - 87 glyphs
 	* Katakana - 107 glyphs
 	* Halfwidth Katakana - 63 glyphs
-* Kanji (CJK Unified Ideographs) - 440 glyphs
+* Kanji (CJK Unified Ideographs) - 1026 glyphs
 * Others - 3 glyphs
 
 <br/>
@@ -51,7 +51,7 @@ Google Fonts version of "GL-Otomanopee," open source Japanese font inspired grap
 	* ひらがな 87文字
 	* カタカナ 107文字
 	* 半角カナ 63文字
-* 漢字 440文字（小学1年生〜小学3年生で習う漢字）
+* 漢字 1026文字（小学校で習う漢字）
 * その他 3文字
 
 ******
